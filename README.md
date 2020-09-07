@@ -33,7 +33,7 @@
 * <https://github.com/dgroomes/example-gradle-java-14>
   * > Example Gradle project with Java 14 "Records"
 * <https://github.com/dgroomes/shell-playground>
-  * > Learning Bash and capturing useful snippets that I would otherwise forget too easily
+  * > Learning shell (mostly Bash) and capturing useful snippets that I would otherwise forget too easily
 * <https://github.com/dgroomes/default-branch-renamer>
   * > A Bash script to rename the default branch for a GitHub repository
 * <https://github.com/dgroomes/nedb-playground>
