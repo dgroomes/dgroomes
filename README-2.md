@@ -1,4 +1,4 @@
-# README2
+# README-2
 
 This is the real README file for this repo. The `README.md` file is used as my [GitHub profile README](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 
