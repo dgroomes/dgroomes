@@ -17,10 +17,8 @@ cat << EOF >> "$README"
 
 EOF
 
-# Format the repo data and add it
-cat repos.json \
-    | jq -r '. | sort_by(.name) | .[] | {html_url, description} | "* <\(.html_url)>\n  * > \(.description)"' \
-    >> "$README"
+# Format the repo data and add it to the README
+cat repos.json | jq -r 'include "lib"; . | generate_html_description' >> "$README"
 
 echo "README.md was generated at '$README'. Its contents (abbreviated):"
 head -n20 "$README"
