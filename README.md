@@ -1,5 +1,9 @@
 ### Hello! 👋
 
+<https://github.com/dgroomes>
+
+### Repositories
+
 * <https://github.com/dgroomes/bash-playground>
   * > 📚 Learning and exploring Bash and capturing useful snippets that I would otherwise too easily forget
 * <https://github.com/dgroomes/default-branch-renamer>
@@ -50,3 +54,9 @@
   * > Learning and experimenting with Spring
 * <https://github.com/dgroomes/tada>
   * > Android application demo (Kotlin)
+
+### Gists <https://gist.github.com/dgroomes>
+
+* [`splitting-out-a-git-repo-from-a-git-repo.md`](https://gist.github.com/d174cc33ea7786736e2b62afdfb602ab)
+* [`build-openjdk-on-macos.md`](https://gist.github.com/3af073b71c2c34581a155af9daa86564)
+* [`download-maven-dependencies-using-gradle.md`](https://gist.github.com/94f1032ec330ef7f1d9eaf6fa9dff597)
