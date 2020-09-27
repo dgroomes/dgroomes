@@ -2,9 +2,11 @@
 
 # Format a MarkDown listing of GitHub repos
 # The input data is the JSON returned from the GitHub API endpoint for a user's repos: https://docs.github.com/en/free-pro-team@latest/rest/reference/repos#list-repositories-for-a-user
+# The listing is sorted alphabetically and excludes Archived repos
 def format_md_repo_listing:
     sort_by(.name)
     | .[]
+    | select(.archived | not)
     | {html_url, description}
     | "* <\(.html_url)>\n  * > \(.description)";
 
