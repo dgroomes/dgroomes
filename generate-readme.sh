@@ -14,9 +14,10 @@ README=README.md
 cat << EOF >> "$README"
 ### Hello! 👋
 
-<https://github.com/dgroomes>
+This is my [GitHub profile README](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
+It is mostly generated from a simple Bash script. See <https://github.com/dgroomes/dgroomes/blob/main/README-2.md> for more.
 
-### Repositories
+### My Repositories <https://github.com/dgroomes?tab=repositories>
 
 EOF
 
@@ -24,7 +25,7 @@ cat repos.json | jq -r 'include "lib"; format_html_repo_listing' >> "$README"
 
 cat << EOF >> "$README"
 
-### Gists <https://gist.github.com/dgroomes>
+### My Gists <https://gist.github.com/dgroomes>
 
 EOF
 

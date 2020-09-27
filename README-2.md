@@ -8,7 +8,7 @@ auto-generation plus some hand-written customization is a good mix of automation
 
 ## WishList
 
-General clean ups, TODOs and things I wish to implement for this project:
+General clean-ups, TODOs and things I wish to implement for this project:
 
 * Download the `repos.json` file from the "generate" script
 * Exclude "archived" repos from the "generate" script
