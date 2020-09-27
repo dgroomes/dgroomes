@@ -1,9 +1,9 @@
 # README-2
 
 This is the real README file for this repo. The file literally named _README.md_ is reserved as my
-["GitHub profile" README](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
+[GitHub "profile README"](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 
-This repo has scripts to auto-generate a "GitHub profile" README from a template file (`README.template.md`) and GitHub
+This repo has scripts to auto-generate a GitHub "profile README" from a template file (`README.template.md`) and GitHub
 data.
 
 ### Instructions

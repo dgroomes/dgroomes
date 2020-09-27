@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-This is my [GitHub profile README](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
+This is my [GitHub "profile README"](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 It is mostly generated from a simple Bash script. See <https://github.com/dgroomes/dgroomes/blob/main/README-2.md> for more.
 
 ### My Repositories <https://github.com/dgroomes?tab=repositories>
@@ -10,7 +10,7 @@ It is mostly generated from a simple Bash script. See <https://github.com/dgroom
 * <https://github.com/dgroomes/default-branch-renamer>
   * > A Bash script to rename the default branch for a GitHub repository
 * <https://github.com/dgroomes/dgroomes>
-  * > This repo defines my GitHub profile-level README
+  * > This repo defines my GitHub "profile README"
 * <https://github.com/dgroomes/docker-shell-example>
   * > Illustrating the shell in Docker
 * <https://github.com/dgroomes/example-gradle-java-14>

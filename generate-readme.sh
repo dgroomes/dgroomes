@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Generate a "GitHub profile" README with a simple listing of all public repos and gists sorted alphabetically
+# Generate a GitHub "profile README" with a simple listing of all public repos and gists sorted alphabetically
 # ascending.
 #
 # Requires a copy of the repo data and gists data. See the notes in 'lib.jq' for the relevant GitHub API documentation.
