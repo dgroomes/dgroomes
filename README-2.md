@@ -3,7 +3,12 @@
 This is the real README file for this repo. The file literally named _README.md_ is reserved as my
 ["GitHub profile" README](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 
+This repo has scripts to auto-generate a "GitHub profile" README from a template file (`README.template.md`) and GitHub
+data.
+
 ### Instructions
+
+NOTE: I am using macOS to execute these scripts.
 
 1. Download your GitHub repositories and gists data with:
     * `./refresh-github-data.sh repos`
@@ -24,3 +29,6 @@ General clean-ups, TODOs and things I wish to implement for this project:
 * DONE Download the `repos.json` and `gists.json` files from a script
 * DONE Exclude "archived" repos from the "generate" script
 * DONE Add my GitHub gists to the README. Automate this process in the "generate" script.
+* DONE Use a template file (`README.template.md`) to de-couple the data and scripting stuff from the hand-written
+  content. After all, it's easy to glance at `README.template.md` and quickly get an idea for what this repo is all
+  about!

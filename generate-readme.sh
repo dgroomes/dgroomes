@@ -1,38 +1,37 @@
 #!/usr/bin/env bash
-# Generate a GitHub profile-level README.md with a simple listing of all public repos and gists sorted alphabetically
+# Generate a "GitHub profile" README with a simple listing of all public repos and gists sorted alphabetically
 # ascending.
 #
 # Requires a copy of the repo data and gists data. See the notes in 'lib.jq' for the relevant GitHub API documentation.
 
 set -eu
 
-README=README.md
-
 # Clear it if it exists already
-> "$README"
+> README.md
 
-cat << EOF >> "$README"
-### Hello! 👋
+# Format the Markdown snippets from the GitHub JSON data
+repos=$(cat repos.json | jq -r 'include "lib"; format_md_repo_listing')
+gists=$(cat gists.json | jq -r 'include "lib"; format_md_gist_listing')
 
-This is my [GitHub profile README](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-It is mostly generated from a simple Bash script. See <https://github.com/dgroomes/dgroomes/blob/main/README-2.md> for more.
+# Stamp out the README.md file from the template file using 'awk'.
+# Yay 'awk'! I learned some awk and found that it is an effective templating mechanism for simple use-cases like this.
+# See my notes and example scripts at:
+#  * https://github.com/dgroomes/bash-playground/blob/855405c3d6c1a3a820d6b3656e773249460ded19/misc/awk-examples.sh
+#  * https://github.com/dgroomes/bash-playground/blob/855405c3d6c1a3a820d6b3656e773249460ded19/templating/template.sh
+awk '
+ BEGIN {
+   repos=ARGV[2]; ARGV[2]="";
+   gists=ARGV[3]; ARGV[3]="";
+ }
 
-### My Repositories <https://github.com/dgroomes?tab=repositories>
+ {
+   gsub(/%REPOS%/, repos);
+   gsub(/%GISTS%/, gists);
+ }1
+' README.template.md "$repos" "$gists" >> README.md
 
-EOF
-
-cat repos.json | jq -r 'include "lib"; format_md_repo_listing' >> "$README"
-
-cat << EOF >> "$README"
-
-### My Gists <https://gist.github.com/dgroomes>
-
-EOF
-
-cat gists.json | jq -r 'include "lib"; format_md_gist_listing' >> "$README"
-
-echo "README.md was generated at '$README'. Its contents (abbreviated):"
-head -n20 "$README"
+echo "README.md was generated. Its contents (abbreviated):"
+head -n20 README.md
 printf "\n...skipped...\n\n"
-tail -n20 "$README"
+tail -n20 README.md
 
