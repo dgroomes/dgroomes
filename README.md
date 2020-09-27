@@ -7,8 +7,6 @@ It is mostly generated from a simple Bash script. See <https://github.com/dgroom
 
 * [bash-playground](https://github.com/dgroomes/bash-playground)
   * > 📚 Learning and exploring Bash and capturing useful snippets that I would otherwise too easily forget
-* [beats](https://github.com/dgroomes/beats)
-  * > :tropical_fish: Beats - Lightweight shippers for Elasticsearch %REPOS% Logstash 
 * [default-branch-renamer](https://github.com/dgroomes/default-branch-renamer)
   * > A Bash script to rename the default branch for a GitHub repository
 * [dgroomes](https://github.com/dgroomes/dgroomes)
@@ -19,8 +17,6 @@ It is mostly generated from a simple Bash script. See <https://github.com/dgroom
   * > Example Gradle project with Java 14 "Records"
 * [httpcomponents-playground](https://github.com/dgroomes/httpcomponents-playground)
   * > 📚 Learning and exploring Apache HTTP Components https://hc.apache.org/index.html
-* [jackson-modules-java8](https://github.com/dgroomes/jackson-modules-java8)
-  * > Set of support modules for Java 8 datatypes (Optionals, date/time) and features (parameter names)
 * [jackson-playground](https://github.com/dgroomes/jackson-playground)
   * > 📚 Learning and exploring Jackson (https://github.com/FasterXML/jackson)
 * [java-concurrency-playground](https://github.com/dgroomes/java-concurrency-playground)

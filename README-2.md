@@ -28,6 +28,7 @@ General clean-ups, TODOs and things I wish to implement for this project:
 
 * DONE Download the `repos.json` and `gists.json` files from a script
 * DONE Exclude "archived" repos from the "generate" script
+* DONE Exclude forked repos
 * DONE Add my GitHub gists to the README. Automate this process in the "generate" script.
 * DONE Use a template file (`README.template.md`) to de-couple the data and scripting stuff from the hand-written
   content. After all, it's easy to glance at `README.template.md` and quickly get an idea for what this repo is all

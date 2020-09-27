@@ -7,11 +7,12 @@ def format_md_link($desc; $url):
 
 # Format a Markdown listing of GitHub repos
 # The input data is the JSON returned from the GitHub API endpoint for a user's repos: https://docs.github.com/en/free-pro-team@latest/rest/reference/repos#list-repositories-for-a-user
-# The listing is sorted alphabetically and excludes Archived repos
+# The listing is sorted alphabetically, excludes archived repos, and excludes forked repos
 def format_md_repo_listing:
     sort_by(.name)
     | .[]
     | select(.archived | not)
+    | select(.fork | not)
     | format_md_link(.name; .html_url) as $link
     | "* \($link)\n  * > \(.description)";
 
