@@ -62,4 +62,5 @@ It is mostly generated from a simple Bash script. See <https://github.com/dgroom
 
 * [`splitting-out-a-git-repo-from-a-git-repo.md`](https://gist.github.com/d174cc33ea7786736e2b62afdfb602ab)
 * [`build-openjdk-on-macos.md`](https://gist.github.com/3af073b71c2c34581a155af9daa86564)
+* [`upgrade-gradle-wrapper.md`](https://gist.github.com/3bfe7f24670e74ee814a7f8e3956cce6)
 * [`download-maven-dependencies-using-gradle.md`](https://gist.github.com/94f1032ec330ef7f1d9eaf6fa9dff597)

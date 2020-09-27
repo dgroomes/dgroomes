@@ -10,6 +10,6 @@ auto-generation plus some hand-written customization is a good mix of automation
 
 General clean-ups, TODOs and things I wish to implement for this project:
 
-* Download the `repos.json` file from the "generate" script
+* DONE Download the `repos.json` and `gists.json` files from a script
 * DONE Exclude "archived" repos from the "generate" script
 * DONE Add my GitHub gists to the README. Automate this process in the "generate" script.
