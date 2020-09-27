@@ -21,7 +21,7 @@ It is mostly generated from a simple Bash script. See <https://github.com/dgroom
 
 EOF
 
-cat repos.json | jq -r 'include "lib"; format_html_repo_listing' >> "$README"
+cat repos.json | jq -r 'include "lib"; format_md_repo_listing' >> "$README"
 
 cat << EOF >> "$README"
 
@@ -29,7 +29,7 @@ cat << EOF >> "$README"
 
 EOF
 
-cat gists.json | jq -r 'include "lib"; format_html_gist_listing' >> "$README"
+cat gists.json | jq -r 'include "lib"; format_md_gist_listing' >> "$README"
 
 echo "README.md was generated at '$README'. Its contents (abbreviated):"
 head -n20 "$README"
