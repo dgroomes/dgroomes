@@ -13,8 +13,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > This repo defines my GitHub "profile README"
 * [docker-shell-example](https://github.com/dgroomes/docker-shell-example)
   * > Illustrating the shell in Docker
-* [example-gradle-java-14](https://github.com/dgroomes/example-gradle-java-14)
-  * > Example Gradle project with Java 14 "Records"
+* [gradle-playground](https://github.com/dgroomes/gradle-playground)
+  * > 📚 Learning and exploring Gradle (the Java build tool)
 * [httpcomponents-playground](https://github.com/dgroomes/httpcomponents-playground)
   * > 📚 Learning and exploring Apache HTTP Components https://hc.apache.org/index.html
 * [jackson-playground](https://github.com/dgroomes/jackson-playground)
