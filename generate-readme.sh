@@ -6,9 +6,6 @@
 
 set -eu
 
-# Clear it if it exists already
-> README.md
-
 # Format the Markdown snippets from the GitHub JSON data
 repos=$(cat repos.json | jq -r 'include "lib"; format_md_repo_listing')
 gists=$(cat gists.json | jq -r 'include "lib"; format_md_gist_listing')
@@ -28,7 +25,7 @@ awk '
    gsub(/%REPOS%/, repos);
    gsub(/%GISTS%/, gists);
  }1
-' README.template.md "$repos" "$gists" >> README.md
+' README.template.md "$repos" "$gists" > README.md
 
 echo "README.md was generated. Its contents (abbreviated):"
 head -n20 README.md
