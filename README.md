@@ -53,8 +53,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > How simple can a Java web application be?
 * [spring-playground](https://github.com/dgroomes/spring-playground)
   * > 📚 Learning and experimenting with Spring
-* [tada](https://github.com/dgroomes/tada)
-  * > Android application demo (Kotlin)
+* [sql-playground](https://github.com/dgroomes/sql-playground)
+  * > 📚 Learning and exploring SQL (and Postgres in particular)
 
 ### My Gists <https://gist.github.com/dgroomes>
 
