@@ -28,7 +28,7 @@ awk '
 ' README.template.md "$repos" "$gists" > README.md
 
 echo "README.md was generated. Its contents (abbreviated):"
-head -n20 README.md
+head README.md
 printf "\n...skipped...\n\n"
-tail -n20 README.md
+tail README.md
 

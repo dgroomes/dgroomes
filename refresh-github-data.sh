@@ -1,14 +1,15 @@
 #!/usr/bin/env bash
 #
 # Refresh the GitHub repositories or gists data.
+# This will only request up to 100 repos and gists because I have not implemented paging in the API request.
 
 GITHUB_API_ORIGIN="https://api.github.com"
 USER=dgroomes
 
 # 'List repositories for a user' API URL path pattern. https://docs.github.com/en/free-pro-team@latest/rest/reference/repos#list-repositories-for-a-user
-REPOS_URL_PATTERN="%s/users/%s/repos"
+REPOS_URL_PATTERN="%s/users/%s/repos?per_page=100"
 # 'List gists for a user' API URL path pattern. https://docs.github.com/en/free-pro-team@latest/rest/reference/gists#list-gists-for-a-user
-GISTS_URL_PATTERN="%s/users/%s/gists"
+GISTS_URL_PATTERN="%s/users/%s/gists?per_page=100"
 
 usage() {
   echo >&2 "Usage: $0 <repos | gists>"

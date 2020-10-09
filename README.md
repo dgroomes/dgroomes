@@ -13,6 +13,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > This repo defines my GitHub "profile README"
 * [docker-shell-example](https://github.com/dgroomes/docker-shell-example)
   * > Illustrating the shell in Docker
+* [git-playground](https://github.com/dgroomes/git-playground)
+  * > 📚 Learning and exploring Git
 * [gradle-playground](https://github.com/dgroomes/gradle-playground)
   * > 📚 Learning and exploring Gradle (the Java build tool)
 * [httpcomponents-playground](https://github.com/dgroomes/httpcomponents-playground)
@@ -23,8 +25,10 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and exploring concurrency in Java
 * [java-debug-playground](https://github.com/dgroomes/java-debug-playground)
   * > 📚 Learning and exploring debugging and profiling tools in Java, the Java toolchain and the Java ecosystem.
+* [java-io-playground](https://github.com/dgroomes/java-io-playground)
+  * > 📚 Learning and exploring Java's IO (input/output) standard libraries
 * [java-time-playground](https://github.com/dgroomes/java-time-playground)
-  * > 📚 Trying out different aspects of `java.time`
+  * > 📚 Learning and experimenting with `java.time`
 * [jmeter-playground](https://github.com/dgroomes/jmeter-playground)
   * > 📚 Learning and exploring Apache JMeter
 * [jq-playground](https://github.com/dgroomes/jq-playground)
@@ -55,6 +59,10 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and experimenting with Spring
 * [sql-playground](https://github.com/dgroomes/sql-playground)
   * > 📚 Learning and exploring SQL (and Postgres in particular)
+* [tada](https://github.com/dgroomes/tada)
+  * > Android application demo (Kotlin)
+* [wiremock-playground](https://github.com/dgroomes/wiremock-playground)
+  * > 📚 Learning and exploring WireMock
 
 ### My Gists <https://gist.github.com/dgroomes>
 
