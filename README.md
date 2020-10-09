@@ -8,11 +8,11 @@ It is mostly generated from a simple Bash script. For details, see the [project 
 * [bash-playground](https://github.com/dgroomes/bash-playground)
   * > 📚 Learning and exploring Bash and capturing useful snippets that I would otherwise too easily forget
 * [default-branch-renamer](https://github.com/dgroomes/default-branch-renamer)
-  * > A Bash script to rename the default branch for a GitHub repository
+  * > 🛠 A Bash script to rename the default branch for a GitHub repository
 * [dgroomes](https://github.com/dgroomes/dgroomes)
   * > This repo defines my GitHub "profile README"
 * [docker-shell-example](https://github.com/dgroomes/docker-shell-example)
-  * > Illustrating the shell in Docker
+  * > ⏯ Illustrating the shell in Docker
 * [git-playground](https://github.com/dgroomes/git-playground)
   * > 📚 Learning and exploring Git
 * [gradle-playground](https://github.com/dgroomes/gradle-playground)
@@ -36,7 +36,7 @@ It is mostly generated from a simple Bash script. For details, see the [project 
 * [jshell-playground](https://github.com/dgroomes/jshell-playground)
   * > 📚 Learning and exploring "jshell"—the official Java shell and read-eval-print loop (REPL)
 * [junit-by-hand](https://github.com/dgroomes/junit-by-hand)
-  * > Showcasing a Java program tested with JUnit *by hand* (i.e. no build tool).
+  * > ⏯ Showcasing a Java program tested with JUnit *by hand* (i.e. no build tool).
 * [junit-playground](https://github.com/dgroomes/junit-playground)
   * > 📚 Learning and exploring JUnit (https://junit.org/junit5)
 * [kafka-playground](https://github.com/dgroomes/kafka-playground)
@@ -54,13 +54,13 @@ It is mostly generated from a simple Bash script. For details, see the [project 
 * [react-playground](https://github.com/dgroomes/react-playground)
   * > 📚 Learning and exploring React https://reactjs.org/
 * [simple-java-web-app](https://github.com/dgroomes/simple-java-web-app)
-  * > How simple can a Java web application be?
+  * > ⏯ How simple can a Java web application be?
 * [spring-playground](https://github.com/dgroomes/spring-playground)
   * > 📚 Learning and experimenting with Spring
 * [sql-playground](https://github.com/dgroomes/sql-playground)
   * > 📚 Learning and exploring SQL (and Postgres in particular)
 * [tada](https://github.com/dgroomes/tada)
-  * > Android application demo (Kotlin)
+  * > ⏯ Android application demo (Kotlin)
 * [wiremock-playground](https://github.com/dgroomes/wiremock-playground)
   * > 📚 Learning and exploring WireMock
 
