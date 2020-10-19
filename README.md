@@ -17,6 +17,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and exploring Git
 * [gradle-playground](https://github.com/dgroomes/gradle-playground)
   * > 📚 Learning and exploring Gradle (the Java build tool)
+* [gradle-wrapper-upgrader](https://github.com/dgroomes/gradle-wrapper-upgrader)
+  * > 🛠 Simple convenience script to help with upgrading the Gradle wrapper
 * [httpcomponents-playground](https://github.com/dgroomes/httpcomponents-playground)
   * > 📚 Learning and exploring Apache HTTP Components https://hc.apache.org/index.html
 * [jackson-playground](https://github.com/dgroomes/jackson-playground)
