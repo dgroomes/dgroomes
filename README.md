@@ -15,6 +15,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > ⏯ Illustrating the shell in Docker
 * [git-playground](https://github.com/dgroomes/git-playground)
   * > 📚 Learning and exploring Git
+* [github-pages-dynamic-viewer](https://github.com/dgroomes/github-pages-dynamic-viewer)
+  * > 🛠 Dynamically load Markdown for a GitHub project in a simple web page
 * [gradle-playground](https://github.com/dgroomes/gradle-playground)
   * > 📚 Learning and exploring Gradle (the Java build tool)
 * [gradle-wrapper-upgrader](https://github.com/dgroomes/gradle-wrapper-upgrader)
@@ -31,6 +33,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and exploring Java's IO (input/output) standard libraries
 * [java-time-playground](https://github.com/dgroomes/java-time-playground)
   * > 📚 Learning and experimenting with `java.time`
+* [javascript-playground](https://github.com/dgroomes/javascript-playground)
+  * > 📚 Learning and exploring JavaScript
 * [jmeter-playground](https://github.com/dgroomes/jmeter-playground)
   * > 📚 Learning and exploring Apache JMeter
 * [jq-playground](https://github.com/dgroomes/jq-playground)
