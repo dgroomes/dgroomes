@@ -35,6 +35,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and experimenting with `java.time`
 * [javascript-playground](https://github.com/dgroomes/javascript-playground)
   * > 📚 Learning and exploring JavaScript
+* [jdbc-playground](https://github.com/dgroomes/jdbc-playground)
+  * > 📚 Learning and exploring JDBC (Java Database Connectivity)
 * [jmeter-playground](https://github.com/dgroomes/jmeter-playground)
   * > 📚 Learning and exploring Apache JMeter
 * [jq-playground](https://github.com/dgroomes/jq-playground)
