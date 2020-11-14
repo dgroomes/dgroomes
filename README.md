@@ -37,6 +37,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and exploring JavaScript
 * [jdbc-playground](https://github.com/dgroomes/jdbc-playground)
   * > 📚 Learning and exploring JDBC (Java Database Connectivity)
+* [jdk-playground](https://github.com/dgroomes/jdk-playground)
+  * > 📚 Learning and exploring tools in the JDK (Java Development Kit)
 * [jmeter-playground](https://github.com/dgroomes/jmeter-playground)
   * > 📚 Learning and exploring Apache JMeter
 * [jq-playground](https://github.com/dgroomes/jq-playground)
