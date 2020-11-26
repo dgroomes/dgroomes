@@ -13,6 +13,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > This repo defines my GitHub "profile README"
 * [docker-shell-example](https://github.com/dgroomes/docker-shell-example)
   * > ⏯ Illustrating the shell in Docker
+* [electron-playground](https://github.com/dgroomes/electron-playground)
+  * > 📚 Learning and exploring Electron
 * [git-playground](https://github.com/dgroomes/git-playground)
   * > 📚 Learning and exploring Git
 * [github-pages-dynamic-viewer](https://github.com/dgroomes/github-pages-dynamic-viewer)
@@ -21,6 +23,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and exploring Gradle (the Java build tool)
 * [gradle-wrapper-upgrader](https://github.com/dgroomes/gradle-wrapper-upgrader)
   * > 🛠 Simple convenience script to help with upgrading the Gradle wrapper
+* [grpc-playground](https://github.com/dgroomes/grpc-playground)
+  * > 📚 Learning and exploring gRPC
 * [httpcomponents-playground](https://github.com/dgroomes/httpcomponents-playground)
   * > 📚 Learning and exploring Apache HTTP Components https://hc.apache.org/index.html
 * [jackson-playground](https://github.com/dgroomes/jackson-playground)
@@ -70,7 +74,7 @@ It is mostly generated from a simple Bash script. For details, see the [project 
 * [sql-playground](https://github.com/dgroomes/sql-playground)
   * > 📚 Learning and exploring SQL (and Postgres in particular)
 * [tada](https://github.com/dgroomes/tada)
-  * > ⏯ Android application demo (Kotlin)
+  * > ⏯ Demo Android application
 * [wiremock-playground](https://github.com/dgroomes/wiremock-playground)
   * > 📚 Learning and exploring WireMock
 
