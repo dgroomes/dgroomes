@@ -75,6 +75,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and exploring SQL (and Postgres in particular)
 * [tada](https://github.com/dgroomes/tada)
   * > ⏯ Demo Android application
+* [vscode-playground](https://github.com/dgroomes/vscode-playground)
+  * > 📚 Learning and exploring Visual Studio Code
 * [wiremock-playground](https://github.com/dgroomes/wiremock-playground)
   * > 📚 Learning and exploring WireMock
 
