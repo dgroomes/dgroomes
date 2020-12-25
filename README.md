@@ -67,6 +67,10 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚  Learning and exploring Picocli https://picocli.info
 * [react-playground](https://github.com/dgroomes/react-playground)
   * > 📚 Learning and exploring React https://reactjs.org/
+* [rocksdb-playground](https://github.com/dgroomes/rocksdb-playground)
+  * > 📚 Learning and exploring RocksDB
+* [rust-playground](https://github.com/dgroomes/rust-playground)
+  * > 📚 Learning and exploring the Rust programming language
 * [simple-java-web-app](https://github.com/dgroomes/simple-java-web-app)
   * > ⏯ How simple can a Java web application be?
 * [spring-playground](https://github.com/dgroomes/spring-playground)
