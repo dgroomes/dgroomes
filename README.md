@@ -27,6 +27,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and exploring gRPC
 * [httpcomponents-playground](https://github.com/dgroomes/httpcomponents-playground)
   * > 📚 Learning and exploring Apache HTTP Components https://hc.apache.org/index.html
+* [intellij-plugin-playground](https://github.com/dgroomes/intellij-plugin-playground)
+  * > 📚 Learning and exploring Intellij IDEA plugin development
 * [jackson-playground](https://github.com/dgroomes/jackson-playground)
   * > 📚 Learning and exploring Jackson (https://github.com/FasterXML/jackson)
 * [java-concurrency-playground](https://github.com/dgroomes/java-concurrency-playground)
@@ -48,7 +50,7 @@ It is mostly generated from a simple Bash script. For details, see the [project 
 * [jq-playground](https://github.com/dgroomes/jq-playground)
   * > 📚 Learning and exploring 'jq'
 * [jshell-playground](https://github.com/dgroomes/jshell-playground)
-  * > 📚 Learning and exploring "jshell"—the official Java shell and read-eval-print loop (REPL)
+  * > 📚 Learning and exploring JShell—the official Java shell and read-eval-print loop (REPL)
 * [junit-by-hand](https://github.com/dgroomes/junit-by-hand)
   * > ⏯ Showcasing a Java program tested with JUnit *by hand* (i.e. no build tool).
 * [junit-playground](https://github.com/dgroomes/junit-playground)
