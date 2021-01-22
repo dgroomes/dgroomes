@@ -11,6 +11,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 🛠 A Bash script to rename the default branch for a GitHub repository
 * [dgroomes](https://github.com/dgroomes/dgroomes)
   * > This repo defines my GitHub "profile README"
+* [docker-playground](https://github.com/dgroomes/docker-playground)
+  * > 📚 Learning and exploring Docker
 * [docker-shell-example](https://github.com/dgroomes/docker-shell-example)
   * > ⏯ Illustrating the shell in Docker
 * [electron-playground](https://github.com/dgroomes/electron-playground)
