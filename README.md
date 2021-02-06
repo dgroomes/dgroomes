@@ -11,9 +11,9 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 🛠 A Bash script to rename the default branch for a GitHub repository
 * [dgroomes](https://github.com/dgroomes/dgroomes)
   * > This repo defines my GitHub "profile README"
-* [docker-playground](https://github.com/dgroomes/docker-playground)
+* [docker-playground](https://github.com/dgroomes/docker-playground) ![Run the 'compose/' sub-project](https://github.com/dgroomes/docker-playground/workflows/Run%20the%20'compose/'%20sub-project/badge.svg)
   * > 📚 Learning and exploring Docker
-* [docker-shell-example](https://github.com/dgroomes/docker-shell-example)
+* [docker-shell-example](https://github.com/dgroomes/docker-shell-example) ![Docker Shell Example CI](https://github.com/dgroomes/docker-shell-example/workflows/Docker%20Shell%20Example%20CI/badge.svg)
   * > ⏯ Illustrating the shell in Docker
 * [electron-playground](https://github.com/dgroomes/electron-playground)
   * > 📚 Learning and exploring Electron
@@ -21,7 +21,7 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and exploring Git
 * [github-pages-dynamic-viewer](https://github.com/dgroomes/github-pages-dynamic-viewer)
   * > 🛠 Dynamically load Markdown for a GitHub project in a simple web page
-* [gradle-playground](https://github.com/dgroomes/gradle-playground)
+* [gradle-playground](https://github.com/dgroomes/gradle-playground) ![Assemble all sub-projects](https://github.com/dgroomes/gradle-playground/workflows/Assemble%20all%20sub-projects/badge.svg)
   * > 📚 Learning and exploring Gradle (the Java build tool)
 * [gradle-wrapper-upgrader](https://github.com/dgroomes/gradle-wrapper-upgrader)
   * > 🛠 Simple convenience script to help with upgrading the Gradle wrapper
@@ -55,9 +55,9 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and exploring JShell—the official Java shell and read-eval-print loop (REPL)
 * [junit-by-hand](https://github.com/dgroomes/junit-by-hand)
   * > ⏯ Showcasing a Java program tested with JUnit *by hand* (i.e. no build tool).
-* [junit-playground](https://github.com/dgroomes/junit-playground)
+* [junit-playground](https://github.com/dgroomes/junit-playground) ![Java CI](https://github.com/dgroomes/junit-playground/workflows/Java%20CI/badge.svg)
   * > 📚 Learning and exploring JUnit (https://junit.org/junit5)
-* [kafka-playground](https://github.com/dgroomes/kafka-playground)
+* [kafka-playground](https://github.com/dgroomes/kafka-playground) ![Assemble all sub-projects](https://github.com/dgroomes/kafka-playground/workflows/Assemble%20all%20sub-projects/badge.svg)
   * > 📚 Learning and experimenting with Apache Kafka
 * [kubernetes-playground](https://github.com/dgroomes/kubernetes-playground)
   * > 📚 Learning and exploring Kubernetes and related tools (kubectl, Helm, etc.)
@@ -79,7 +79,7 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and exploring the Rust programming language
 * [simple-java-web-app](https://github.com/dgroomes/simple-java-web-app)
   * > ⏯ How simple can a Java web application be?
-* [spring-playground](https://github.com/dgroomes/spring-playground)
+* [spring-playground](https://github.com/dgroomes/spring-playground) ![Assemble all sub-projects](https://github.com/dgroomes/spring-playground/workflows/Assemble%20all%20sub-projects/badge.svg)
   * > 📚 Learning and experimenting with Spring
 * [sql-playground](https://github.com/dgroomes/sql-playground)
   * > 📚 Learning and exploring SQL (and Postgres in particular)

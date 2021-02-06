@@ -7,7 +7,7 @@
 set -eu
 
 # Format the Markdown snippets from the GitHub JSON data
-repos=$(cat repos.json | jq -r 'include "lib"; format_md_repo_listing')
+repos=$(cat repos.json | jq -r  --slurpfile workflows <(cat tmp/_temp-workflow-*) 'include "lib"; format_md_repo_listing')
 gists=$(cat gists.json | jq -r 'include "lib"; format_md_gist_listing')
 
 # Stamp out the README.md file from the template file using 'awk'.
