@@ -1,5 +1,9 @@
 # jq (https://stedolan.github.io/jq/manual/) helper functions
 
+# List the repository names
+def list_repo_names:
+  .[].name;
+
 # Format a Markdown link given a description and a URL
 # Remember, your handy dandy Markdown cheat sheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 def format_md_link($desc; $url):

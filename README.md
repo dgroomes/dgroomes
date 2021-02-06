@@ -63,6 +63,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and exploring Kubernetes and related tools (kubectl, Helm, etc.)
 * [logging-playground](https://github.com/dgroomes/logging-playground)
   * > 📚 Learning and experimenting with logging libraries in the Java ecosystem
+* [micronaut-playground](https://github.com/dgroomes/micronaut-playground)
+  * > 📚 Learning and experimenting with Micronaut framework
 * [my-config](https://github.com/dgroomes/my-config)
   * > My configuration files and macOS setup instructions
 * [nedb-playground](https://github.com/dgroomes/nedb-playground)

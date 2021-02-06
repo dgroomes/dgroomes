@@ -34,7 +34,7 @@ General clean-ups, TODOs and things I wish to implement for this project:
 * DONE Use a template file (`README.template.md`) to de-couple the data and scripting stuff from the hand-written
   content. After all, it's easy to glance at `README.template.md` and quickly get an idea for what this repo is all
   about!
-* Generate GitHub Actions workflow status badges in the `generate-readme.sh` script. This will be practical only if the
+* IN PROGRESS Generate GitHub Actions workflow status badges in the `generate-readme.sh` script. This will be practical only if the
   badge URLs can be automatically gleaned from information returned by the GitHub APIs. If the status badge URL must be
   manually written then that goes against the spirit of this tool, which is to automatically generate the vast majority
   of the GitHub personal README page content. Requires research. Read the [docs on workflow status badges](https://docs.github.com/en/actions/managing-workflow-runs/adding-a-workflow-status-badge).
