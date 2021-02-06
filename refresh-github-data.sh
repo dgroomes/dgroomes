@@ -53,8 +53,6 @@ elif [[ "$DATA_TYPE" == "repos" ]]; then
   DOWNLOAD_FILE="repos.json"
   download
 
-  # WIP
-  #
   # Download the GitHub Actions "workflows" data, repo by repo.
   #
   # List each repository name on a new line so that we can easily iterate over the list in the script and curl the GitHub
