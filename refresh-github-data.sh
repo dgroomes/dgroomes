@@ -77,6 +77,12 @@ elif [[ "$DATA_TYPE" == "repos" ]]; then
     URL=$(printf "$ACTIONS_WORKFLOWS_URL_PATTERN" "$GITHUB_API_ORIGIN" "$USER" "$repo_name")
     DOWNLOAD_FILE="$TEMP_DIR/_temp-workflow-$repo_name.json"
     download
+
+    # Splice in the repo name to the JSON to make life easier for the 'generate-readme.sh' script.
+    tmp="$TEMP_DIR/temp.json"
+    > "$tmp"
+    cat "$DOWNLOAD_FILE" | jq --arg repo_name "$repo_name" '. + { $repo_name }' > "$tmp"
+    mv "$tmp" "$DOWNLOAD_FILE"
   done < "$REPO_NAMES"
 
 else

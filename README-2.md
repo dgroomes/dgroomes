@@ -38,3 +38,7 @@ General clean-ups, TODOs and things I wish to implement for this project:
   badge URLs can be automatically gleaned from information returned by the GitHub APIs. If the status badge URL must be
   manually written then that goes against the spirit of this tool, which is to automatically generate the vast majority
   of the GitHub personal README page content. Requires research. Read the [docs on workflow status badges](https://docs.github.com/en/actions/managing-workflow-runs/adding-a-workflow-status-badge).
+
+## Referenced Materials
+
+* [jq docs](https://stedolan.github.io/jq/manual/)
