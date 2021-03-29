@@ -27,8 +27,12 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 🛠 Simple convenience script to help with upgrading the Gradle wrapper
 * [grpc-playground](https://github.com/dgroomes/grpc-playground)
   * > 📚 Learning and exploring gRPC
+* [hadoop-playground](https://github.com/dgroomes/hadoop-playground)
+  * > 📚 Learning and exploring core Apache Hadoop and its surrounding ecosystem
 * [httpcomponents-playground](https://github.com/dgroomes/httpcomponents-playground)
   * > 📚 Learning and exploring Apache HTTP Components https://hc.apache.org/index.html
+* [intellij-playground](https://github.com/dgroomes/intellij-playground)
+  * > 📚 Learning and exploring Intellij IDEA
 * [intellij-plugin-playground](https://github.com/dgroomes/intellij-plugin-playground)
   * > 📚 Learning and exploring Intellij IDEA plugin development
 * [jackson-playground](https://github.com/dgroomes/jackson-playground)
