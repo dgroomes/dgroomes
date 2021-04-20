@@ -93,6 +93,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > ⏯ Demo Android application
 * [vscode-playground](https://github.com/dgroomes/vscode-playground)
   * > 📚 Learning and exploring Visual Studio Code
+* [web-playground](https://github.com/dgroomes/web-playground)
+  * > 📚 Learning and experimenting with various web technologies
 * [wiremock-playground](https://github.com/dgroomes/wiremock-playground)
   * > 📚 Learning and exploring WireMock
 
