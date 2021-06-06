@@ -7,6 +7,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
 
 * [bash-playground](https://github.com/dgroomes/bash-playground)
   * > 📚 Learning and exploring Bash and capturing useful snippets that I would otherwise too easily forget
+* [config-playground](https://github.com/dgroomes/config-playground)
+  * > 📚 Learning and exploring various configuration technologies
 * [default-branch-renamer](https://github.com/dgroomes/default-branch-renamer)
   * > 🛠 A Bash script to rename the default branch for a GitHub repository
 * [dgroomes](https://github.com/dgroomes/dgroomes)
@@ -57,8 +59,6 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and exploring 'jq'
 * [jshell-playground](https://github.com/dgroomes/jshell-playground)
   * > 📚 Learning and exploring JShell—the official Java shell and read-eval-print loop (REPL)
-* [junit-by-hand](https://github.com/dgroomes/junit-by-hand)
-  * > ⏯ Showcasing a Java program tested with JUnit *by hand* (i.e. no build tool).
 * [junit-playground](https://github.com/dgroomes/junit-playground) ![Java CI](https://github.com/dgroomes/junit-playground/workflows/Java%20CI/badge.svg)
   * > 📚 Learning and exploring JUnit (https://junit.org/junit5)
 * [kafka-playground](https://github.com/dgroomes/kafka-playground) ![Assemble all sub-projects](https://github.com/dgroomes/kafka-playground/workflows/Assemble%20all%20sub-projects/badge.svg)
