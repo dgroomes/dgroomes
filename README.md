@@ -31,7 +31,7 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and exploring gRPC
 * [hadoop-playground](https://github.com/dgroomes/hadoop-playground)
   * > 📚 Learning and exploring core Apache Hadoop and its surrounding ecosystem
-* [httpcomponents-playground](https://github.com/dgroomes/httpcomponents-playground)
+* [http-client-server-playground](https://github.com/dgroomes/http-client-server-playground)
   * > 📚 Learning and exploring Apache HTTP Components https://hc.apache.org/index.html
 * [intellij-playground](https://github.com/dgroomes/intellij-playground)
   * > 📚 Learning and exploring Intellij IDEA
@@ -39,6 +39,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and exploring Intellij IDEA plugin development
 * [jackson-playground](https://github.com/dgroomes/jackson-playground)
   * > 📚 Learning and exploring Jackson (https://github.com/FasterXML/jackson)
+* [java-collections-playground](https://github.com/dgroomes/java-collections-playground)
+  * > 📚 Learning and experimenting with the Java Collections Framework
 * [java-concurrency-playground](https://github.com/dgroomes/java-concurrency-playground)
   * > 📚 Learning and exploring concurrency in Java
 * [java-debug-playground](https://github.com/dgroomes/java-debug-playground)
@@ -67,6 +69,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and exploring Kubernetes and related tools (kubectl, Helm, etc.)
 * [logging-playground](https://github.com/dgroomes/logging-playground)
   * > 📚 Learning and experimenting with logging libraries in the Java ecosystem
+* [markdownlint-playground](https://github.com/dgroomes/markdownlint-playground)
+  * > 📚 Learning and exploring "markdownlint"
 * [micronaut-playground](https://github.com/dgroomes/micronaut-playground)
   * > 📚 Learning and experimenting with Micronaut framework
 * [mongodb-playground](https://github.com/dgroomes/mongodb-playground)
@@ -95,6 +99,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and exploring Visual Studio Code
 * [web-playground](https://github.com/dgroomes/web-playground)
   * > 📚 Learning and experimenting with various web technologies
+* [wickdb-playground](https://github.com/dgroomes/wickdb-playground)
+  * > 📚 Learning and exploring the pure Rust LSM-tree embedded storage engine wickdb
 * [wiremock-playground](https://github.com/dgroomes/wiremock-playground)
   * > 📚 Learning and exploring WireMock
 
