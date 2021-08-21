@@ -93,6 +93,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and experimenting with Spring
 * [sql-playground](https://github.com/dgroomes/sql-playground)
   * > 📚 Learning and exploring SQL (and Postgres in particular)
+* [stackoverflow-static](https://github.com/dgroomes/stackoverflow-static)
+  * > 🛠 Scrape a static copy of your own StackOverflow votes data.
 * [tada](https://github.com/dgroomes/tada)
   * > ⏯ Demo Android application
 * [vscode-playground](https://github.com/dgroomes/vscode-playground)
