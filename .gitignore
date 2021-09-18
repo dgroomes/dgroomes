@@ -2,3 +2,4 @@
 gists.json
 repos.json
 tmp/
+.DS_Store

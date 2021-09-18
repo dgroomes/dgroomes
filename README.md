@@ -23,6 +23,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and exploring Git
 * [github-pages-dynamic-viewer](https://github.com/dgroomes/github-pages-dynamic-viewer)
   * > 🛠 Dynamically load Markdown for a GitHub project in a simple web page
+* [go-playground](https://github.com/dgroomes/go-playground)
+  * > 📚 Learning and experimenting with the Go programming language
 * [gradle-playground](https://github.com/dgroomes/gradle-playground) ![Assemble all sub-projects](https://github.com/dgroomes/gradle-playground/workflows/Assemble%20all%20sub-projects/badge.svg)
   * > 📚 Learning and exploring Gradle (the Java build tool)
 * [gradle-wrapper-upgrader](https://github.com/dgroomes/gradle-wrapper-upgrader)
@@ -94,7 +96,7 @@ It is mostly generated from a simple Bash script. For details, see the [project 
 * [sql-playground](https://github.com/dgroomes/sql-playground)
   * > 📚 Learning and exploring SQL (and Postgres in particular)
 * [stackoverflow-static](https://github.com/dgroomes/stackoverflow-static)
-  * > 🛠 Scrape a static copy of your own StackOverflow votes data.
+  * > 🛠  Extract and search the posts you've up-voted on StackOverflow.
 * [tada](https://github.com/dgroomes/tada)
   * > ⏯ Demo Android application
 * [vscode-playground](https://github.com/dgroomes/vscode-playground)
