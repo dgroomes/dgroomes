@@ -3,7 +3,10 @@
 This is my [GitHub "profile README"](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 It is mostly generated from a simple Bash script. For details, see the [project notes](https://github.com/dgroomes/dgroomes/blob/main/README-2.md).
 
-### My Repositories <https://github.com/dgroomes?tab=repositories>
+### My Repositories
+
+Below is a list of [my repositories](https://github.com/dgroomes?tab=repositories) in alphabetical order. It excludes
+*archived* repos.
 
 * [bash-playground](https://github.com/dgroomes/bash-playground)
   * > 📚 Learning and exploring Bash and capturing useful snippets that I would otherwise too easily forget
@@ -95,8 +98,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
   * > 📚 Learning and experimenting with Spring
 * [sql-playground](https://github.com/dgroomes/sql-playground)
   * > 📚 Learning and exploring SQL (and Postgres in particular)
-* [stackoverflow-static](https://github.com/dgroomes/stackoverflow-static)
-  * > 🛠  Extract and search the posts you've up-voted on StackOverflow.
+* [stackoverflow-look-back](https://github.com/dgroomes/stackoverflow-look-back)
+  * > 🛠  Extract and search the posts you've up-voted on StackOverflow. Look back on your data.
 * [tada](https://github.com/dgroomes/tada)
   * > ⏯ Demo Android application
 * [vscode-playground](https://github.com/dgroomes/vscode-playground)
@@ -108,7 +111,9 @@ It is mostly generated from a simple Bash script. For details, see the [project 
 * [wiremock-playground](https://github.com/dgroomes/wiremock-playground)
   * > 📚 Learning and exploring WireMock
 
-### My Gists <https://gist.github.com/dgroomes>
+### My Gists
+
+Below is a list of [my gists](https://gist.github.com/dgroomes).
 
 * [`splitting-out-a-git-repo-from-a-git-repo.md`](https://gist.github.com/d174cc33ea7786736e2b62afdfb602ab)
 * [`build-openjdk-on-macos.md`](https://gist.github.com/3af073b71c2c34581a155af9daa86564)
