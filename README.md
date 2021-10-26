@@ -5,8 +5,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
 
 ### My Repositories
 
-Below is a list of [my repositories](https://github.com/dgroomes?tab=repositories) in alphabetical order. It excludes
-*archived* repos.
+Below is a list of [my repositories](https://github.com/dgroomes?tab=repositories) listed in alphabetical order. It
+excludes my archived repos.
 
 * [bash-playground](https://github.com/dgroomes/bash-playground)
   * > 📚 Learning and exploring Bash and capturing useful snippets that I would otherwise too easily forget
@@ -32,12 +32,16 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring Gradle (the Java build tool)
 * [gradle-wrapper-upgrader](https://github.com/dgroomes/gradle-wrapper-upgrader)
   * > 🛠 Simple convenience script to help with upgrading the Gradle wrapper
+* [graphql-playground](https://github.com/dgroomes/graphql-playground)
+  * > 📚 Learning and exploring GraphQL and graphql-java
 * [grpc-playground](https://github.com/dgroomes/grpc-playground)
   * > 📚 Learning and exploring gRPC
 * [hadoop-playground](https://github.com/dgroomes/hadoop-playground)
   * > 📚 Learning and exploring core Apache Hadoop and its surrounding ecosystem
 * [http-client-server-playground](https://github.com/dgroomes/http-client-server-playground)
   * > 📚 Learning and exploring Apache HTTP Components https://hc.apache.org/index.html
+* [insomnia-playground](https://github.com/dgroomes/insomnia-playground)
+  * > 📚 Learning and exploring NeDB
 * [intellij-playground](https://github.com/dgroomes/intellij-playground)
   * > 📚 Learning and exploring Intellij IDEA
 * [intellij-plugin-playground](https://github.com/dgroomes/intellij-plugin-playground)
@@ -52,6 +56,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring debugging and profiling tools in Java, the Java toolchain and the Java ecosystem.
 * [java-io-playground](https://github.com/dgroomes/java-io-playground)
   * > 📚 Learning and exploring Java's IO (input/output) standard libraries
+* [java-metaprogramming-playground](https://github.com/dgroomes/java-metaprogramming-playground)
+  * > 📚 Learning and exploring the metaprogramming features of Java
 * [java-time-playground](https://github.com/dgroomes/java-time-playground)
   * > 📚 Learning and experimenting with `java.time`
 * [javascript-playground](https://github.com/dgroomes/javascript-playground)
@@ -82,8 +88,6 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring MongoDB
 * [my-config](https://github.com/dgroomes/my-config)
   * > My configuration files and macOS setup instructions
-* [nedb-playground](https://github.com/dgroomes/nedb-playground)
-  * > 📚 Learning and exploring NeDB
 * [picocli-playground](https://github.com/dgroomes/picocli-playground)
   * > 📚  Learning and exploring Picocli https://picocli.info
 * [react-playground](https://github.com/dgroomes/react-playground)
