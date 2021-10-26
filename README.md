@@ -5,8 +5,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
 
 ### My Repositories
 
-Below is a list of [my repositories](https://github.com/dgroomes?tab=repositories) listed in alphabetical order. It
-excludes my archived repos.
+Below is a list of [my repositories](https://github.com/dgroomes?tab=repositories) in alphabetical order. It excludes
+*archived* repos.
 
 * [bash-playground](https://github.com/dgroomes/bash-playground)
   * > 📚 Learning and exploring Bash and capturing useful snippets that I would otherwise too easily forget
