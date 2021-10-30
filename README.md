@@ -14,6 +14,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring various configuration technologies
 * [default-branch-renamer](https://github.com/dgroomes/default-branch-renamer)
   * > 🛠 A Bash script to rename the default branch for a GitHub repository
+* [deno-playground](https://github.com/dgroomes/deno-playground)
+  * > 📚 Learning and exploring Deno
 * [dgroomes](https://github.com/dgroomes/dgroomes)
   * > This repo defines my GitHub "profile README"
 * [docker-playground](https://github.com/dgroomes/docker-playground) ![Run the 'compose/' sub-project](https://github.com/dgroomes/docker-playground/workflows/Run%20the%20'compose/'%20sub-project/badge.svg)
@@ -98,6 +100,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring the Rust programming language
 * [simple-java-web-app](https://github.com/dgroomes/simple-java-web-app)
   * > ⏯ How simple can a Java web application be?
+* [sourcegraph-playground](https://github.com/dgroomes/sourcegraph-playground)
+  * > 📚 Learning and exploring Sourcegraph
 * [spring-playground](https://github.com/dgroomes/spring-playground) ![Assemble all sub-projects](https://github.com/dgroomes/spring-playground/workflows/Assemble%20all%20sub-projects/badge.svg)
   * > 📚 Learning and experimenting with Spring
 * [sql-playground](https://github.com/dgroomes/sql-playground)
