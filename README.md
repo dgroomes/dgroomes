@@ -10,6 +10,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
 
 * [bash-playground](https://github.com/dgroomes/bash-playground)
   * > 📚 Learning and exploring Bash and capturing useful snippets that I would otherwise too easily forget
+* [browser-extension-framework](https://github.com/dgroomes/browser-extension-framework)
+  * > 🛠 An RPC-centric web extension framework for the browser
 * [config-playground](https://github.com/dgroomes/config-playground)
   * > 📚 Learning and exploring various configuration technologies
 * [default-branch-renamer](https://github.com/dgroomes/default-branch-renamer)
@@ -110,6 +112,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 🛠  Extract and search the posts you've up-voted on StackOverflow. Look back on your data.
 * [tada](https://github.com/dgroomes/tada)
   * > ⏯ Demo Android application
+* [threejs-playground](https://github.com/dgroomes/threejs-playground) ![pages-build-deployment](https://github.com/dgroomes/threejs-playground/workflows/pages-build-deployment/badge.svg)
+  * > 📚 Learning and experimenting with three.js
 * [vscode-playground](https://github.com/dgroomes/vscode-playground)
   * > 📚 Learning and exploring Visual Studio Code
 * [web-playground](https://github.com/dgroomes/web-playground)
