@@ -112,6 +112,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 🛠  Extract and search the posts you've up-voted on StackOverflow. Look back on your data.
 * [tada](https://github.com/dgroomes/tada)
   * > ⏯ Demo Android application
+* [terminal-playground](https://github.com/dgroomes/terminal-playground)
+  * > 📚 Learning and exploring features of the terminal
 * [threejs-playground](https://github.com/dgroomes/threejs-playground) ![pages-build-deployment](https://github.com/dgroomes/threejs-playground/workflows/pages-build-deployment/badge.svg)
   * > 📚 Learning and experimenting with three.js
 * [vscode-playground](https://github.com/dgroomes/vscode-playground)
