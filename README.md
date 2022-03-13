@@ -26,9 +26,11 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > ⏯ Illustrating the shell in Docker
 * [electron-playground](https://github.com/dgroomes/electron-playground)
   * > 📚 Learning and exploring Electron
+* [flyway-playground](https://github.com/dgroomes/flyway-playground)
+  * > 📚 Learning and exploring Flyway, the Java-based database migration tool
 * [git-playground](https://github.com/dgroomes/git-playground)
   * > 📚 Learning and exploring Git
-* [github-pages-dynamic-viewer](https://github.com/dgroomes/github-pages-dynamic-viewer)
+* [github-pages-dynamic-viewer](https://github.com/dgroomes/github-pages-dynamic-viewer) ![pages-build-deployment](https://github.com/dgroomes/github-pages-dynamic-viewer/workflows/pages-build-deployment/badge.svg)
   * > 🛠 Dynamically load Markdown for a GitHub project in a simple web page
 * [go-playground](https://github.com/dgroomes/go-playground)
   * > 📚 Learning and experimenting with the Go programming language
@@ -94,7 +96,7 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > My configuration files and macOS setup instructions
 * [picocli-playground](https://github.com/dgroomes/picocli-playground)
   * > 📚  Learning and exploring Picocli https://picocli.info
-* [react-playground](https://github.com/dgroomes/react-playground)
+* [react-playground](https://github.com/dgroomes/react-playground) ![pages-build-deployment](https://github.com/dgroomes/react-playground/workflows/pages-build-deployment/badge.svg)
   * > 📚 Learning and exploring React https://reactjs.org/
 * [rocksdb-playground](https://github.com/dgroomes/rocksdb-playground)
   * > 📚 Learning and exploring RocksDB
