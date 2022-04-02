@@ -120,6 +120,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and experimenting with three.js
 * [vscode-playground](https://github.com/dgroomes/vscode-playground)
   * > 📚 Learning and exploring Visual Studio Code
+* [wasm-playground](https://github.com/dgroomes/wasm-playground)
+  * > 📚 Learning and exploring WebAssembly (WASM)
 * [web-playground](https://github.com/dgroomes/web-playground)
   * > 📚 Learning and experimenting with various web technologies
 * [wickdb-playground](https://github.com/dgroomes/wickdb-playground)
