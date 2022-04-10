@@ -8,6 +8,8 @@ It is mostly generated from a simple Bash script. For details, see the [project 
 Below is a list of [my repositories](https://github.com/dgroomes?tab=repositories) in alphabetical order. It excludes
 *archived* repos.
 
+* [antlr-playground](https://github.com/dgroomes/antlr-playground)
+  * > 📚 Learning and exploring ANTLR (ANother Tool for Language Recognition)
 * [bash-playground](https://github.com/dgroomes/bash-playground)
   * > 📚 Learning and exploring Bash and capturing useful snippets that I would otherwise too easily forget
 * [browser-extension-framework](https://github.com/dgroomes/browser-extension-framework)
