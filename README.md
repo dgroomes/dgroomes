@@ -13,7 +13,7 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
 * [bash-playground](https://github.com/dgroomes/bash-playground)
   * > 📚 Learning and exploring Bash and capturing useful snippets that I would otherwise too easily forget
 * [browser-extension-framework](https://github.com/dgroomes/browser-extension-framework)
-  * > 🛠 An RPC-centric web extension framework for the browser
+  * > 🛠 BrowserExtensionFramework is a zero-dependency RPC-centric framework for browser extensions
 * [config-playground](https://github.com/dgroomes/config-playground)
   * > 📚 Learning and exploring various configuration technologies
 * [default-branch-renamer](https://github.com/dgroomes/default-branch-renamer)
@@ -41,13 +41,13 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
 * [gradle-wrapper-upgrader](https://github.com/dgroomes/gradle-wrapper-upgrader)
   * > 🛠 Simple convenience script to help with upgrading the Gradle wrapper
 * [graphql-playground](https://github.com/dgroomes/graphql-playground)
-  * > 📚 Learning and exploring GraphQL and graphql-java
+  * > 📚 Learning and exploring GraphQL and *GraphQL Java* https://www.graphql-java.com/
 * [grpc-playground](https://github.com/dgroomes/grpc-playground)
   * > 📚 Learning and exploring gRPC
 * [hadoop-playground](https://github.com/dgroomes/hadoop-playground)
   * > 📚 Learning and exploring core Apache Hadoop and its surrounding ecosystem
 * [http-client-server-playground](https://github.com/dgroomes/http-client-server-playground)
-  * > 📚 Learning and exploring Apache HTTP Components https://hc.apache.org/index.html
+  * > 📚 Learning and exploring various HTTP client and servers in the JVM eco-system: Netty, Jetty, Apache HTTP Components.
 * [insomnia-playground](https://github.com/dgroomes/insomnia-playground)
   * > 📚 Learning and exploring NeDB
 * [intellij-playground](https://github.com/dgroomes/intellij-playground)
@@ -100,6 +100,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚  Learning and exploring Picocli https://picocli.info
 * [react-playground](https://github.com/dgroomes/react-playground) ![pages-build-deployment](https://github.com/dgroomes/react-playground/workflows/pages-build-deployment/badge.svg)
   * > 📚 Learning and exploring React https://reactjs.org/
+* [redis-playground](https://github.com/dgroomes/redis-playground)
+  * > 📚 Learning and exploring Redis
 * [rocksdb-playground](https://github.com/dgroomes/rocksdb-playground)
   * > 📚 Learning and exploring RocksDB
 * [rust-playground](https://github.com/dgroomes/rust-playground)
