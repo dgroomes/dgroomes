@@ -26,6 +26,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring Docker
 * [docker-shell-example](https://github.com/dgroomes/docker-shell-example) ![Docker Shell Example CI](https://github.com/dgroomes/docker-shell-example/workflows/Docker%20Shell%20Example%20CI/badge.svg)
   * > ⏯ Illustrating the shell in Docker
+* [elastic-playground](https://github.com/dgroomes/elastic-playground)
+  * > 📚 Learning and exploring the Elastic stack
 * [electron-playground](https://github.com/dgroomes/electron-playground)
   * > 📚 Learning and exploring Electron
 * [flyway-playground](https://github.com/dgroomes/flyway-playground)
