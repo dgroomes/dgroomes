@@ -104,6 +104,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring React https://reactjs.org/
 * [redis-playground](https://github.com/dgroomes/redis-playground)
   * > 📚 Learning and exploring Redis
+* [redux-playground](https://github.com/dgroomes/redux-playground)
+  * > 📚 Learning and experimenting with Redux by example
 * [rocksdb-playground](https://github.com/dgroomes/rocksdb-playground)
   * > 📚 Learning and exploring RocksDB
 * [rust-playground](https://github.com/dgroomes/rust-playground)
