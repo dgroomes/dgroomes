@@ -10,6 +10,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
 
 * [antlr-playground](https://github.com/dgroomes/antlr-playground)
   * > 📚 Learning and exploring ANTLR (ANother Tool for Language Recognition)
+* [aws-playground](https://github.com/dgroomes/aws-playground)
+  * > 📚 Learning and exploring AWS (Amazon Web Services)
 * [bash-playground](https://github.com/dgroomes/bash-playground)
   * > 📚 Learning and exploring Bash and capturing useful snippets that I would otherwise too easily forget
 * [browser-extension-framework](https://github.com/dgroomes/browser-extension-framework)
@@ -130,7 +132,7 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring Visual Studio Code
 * [wasm-playground](https://github.com/dgroomes/wasm-playground)
   * > 📚 Learning and exploring WebAssembly (WASM)
-* [web-playground](https://github.com/dgroomes/web-playground)
+* [web-playground](https://github.com/dgroomes/web-playground) ![pages-build-deployment](https://github.com/dgroomes/web-playground/workflows/pages-build-deployment/badge.svg)
   * > 📚 Learning and experimenting with various web technologies
 * [wickdb-playground](https://github.com/dgroomes/wickdb-playground)
   * > 📚 Learning and exploring the pure Rust LSM-tree embedded storage engine wickdb
