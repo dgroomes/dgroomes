@@ -8,10 +8,12 @@ It is mostly generated from a simple Bash script. For details, see the [project 
 Below is a list of [my repositories](https://github.com/dgroomes?tab=repositories) in alphabetical order. It excludes
 *archived* repos.
 
+* [algolia-playground](https://github.com/dgroomes/algolia-playground)
+  * > 📚 Learning and exploring the Algolia search platform
 * [antlr-playground](https://github.com/dgroomes/antlr-playground)
   * > 📚 Learning and exploring ANTLR (ANother Tool for Language Recognition)
 * [aws-playground](https://github.com/dgroomes/aws-playground)
-  * > 📚 Learning and exploring AWS (Amazon Web Services)
+  * > 📚 Learning and exploring AWS (Amazon Web Services) by example
 * [bash-playground](https://github.com/dgroomes/bash-playground)
   * > 📚 Learning and exploring Bash and capturing useful snippets that I would otherwise too easily forget
 * [browser-extension-framework](https://github.com/dgroomes/browser-extension-framework)
@@ -90,6 +92,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and experimenting with Apache Kafka
 * [kubernetes-playground](https://github.com/dgroomes/kubernetes-playground)
   * > 📚 Learning and exploring Kubernetes and related tools (kubectl, Helm, etc.)
+* [libraries-the-book-kind](https://github.com/dgroomes/libraries-the-book-kind) ![pages-build-deployment](https://github.com/dgroomes/libraries-the-book-kind/workflows/pages-build-deployment/badge.svg)
+  * > Exploring public libraries in the Hennepin County Library system in Minnesota
 * [logging-playground](https://github.com/dgroomes/logging-playground)
   * > 📚 Learning and experimenting with logging libraries in the Java ecosystem
 * [markdownlint-playground](https://github.com/dgroomes/markdownlint-playground)
@@ -100,6 +104,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring MongoDB
 * [my-config](https://github.com/dgroomes/my-config)
   * > My configuration files and macOS setup instructions
+* [nextjs-playground](https://github.com/dgroomes/nextjs-playground) ![pages-build-deployment](https://github.com/dgroomes/nextjs-playground/workflows/pages-build-deployment/badge.svg)
+  * > 📚 Learning and exploring Next.js
 * [picocli-playground](https://github.com/dgroomes/picocli-playground)
   * > 📚  Learning and exploring Picocli https://picocli.info
 * [react-playground](https://github.com/dgroomes/react-playground) ![pages-build-deployment](https://github.com/dgroomes/react-playground/workflows/pages-build-deployment/badge.svg)
@@ -131,7 +137,7 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
 * [vscode-playground](https://github.com/dgroomes/vscode-playground)
   * > 📚 Learning and exploring Visual Studio Code
 * [wasm-playground](https://github.com/dgroomes/wasm-playground)
-  * > 📚 Learning and exploring WebAssembly (WASM)
+  * > 📚 Learning and exploring WebAssembly (Wasm)
 * [web-playground](https://github.com/dgroomes/web-playground) ![pages-build-deployment](https://github.com/dgroomes/web-playground/workflows/pages-build-deployment/badge.svg)
   * > 📚 Learning and experimenting with various web technologies
 * [wickdb-playground](https://github.com/dgroomes/wickdb-playground)
