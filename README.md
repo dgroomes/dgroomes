@@ -82,6 +82,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring tools in the JDK (Java Development Kit)
 * [jmeter-playground](https://github.com/dgroomes/jmeter-playground)
   * > 📚 Learning and exploring Apache JMeter
+* [jooq-playground](https://github.com/dgroomes/jooq-playground)
+  * > 📚 Learning and exploring jOOQ
 * [jq-playground](https://github.com/dgroomes/jq-playground)
   * > 📚 Learning and exploring 'jq'
 * [jshell-playground](https://github.com/dgroomes/jshell-playground)
@@ -96,6 +98,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > Exploring public libraries in the Hennepin County Library system in Minnesota
 * [logging-playground](https://github.com/dgroomes/logging-playground)
   * > 📚 Learning and experimenting with logging libraries in the Java ecosystem
+* [lucene-playground](https://github.com/dgroomes/lucene-playground)
+  * > 📚 Learning and exploring Apache Lucene: the most widely-used open source search engine
 * [markdownlint-playground](https://github.com/dgroomes/markdownlint-playground)
   * > 📚 Learning and exploring "markdownlint"
 * [micronaut-playground](https://github.com/dgroomes/micronaut-playground)
@@ -126,7 +130,7 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and experimenting with Spring
 * [sql-playground](https://github.com/dgroomes/sql-playground)
   * > 📚 Learning and exploring SQL (and Postgres in particular)
-* [stackoverflow-look-back](https://github.com/dgroomes/stackoverflow-look-back)
+* [stackoverflow-look-back](https://github.com/dgroomes/stackoverflow-look-back) ![pages-build-deployment](https://github.com/dgroomes/stackoverflow-look-back/workflows/pages-build-deployment/badge.svg)
   * > 🛠  Extract and search the posts you've up-voted on StackOverflow. Look back on your data.
 * [tada](https://github.com/dgroomes/tada)
   * > ⏯ Demo Android application
