@@ -52,6 +52,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring gRPC
 * [hadoop-playground](https://github.com/dgroomes/hadoop-playground)
   * > 📚 Learning and exploring core Apache Hadoop and its surrounding ecosystem
+* [hibernate-playground](https://github.com/dgroomes/hibernate-playground)
+  * > 📚 Learning and exploring Hibernate ORM (the Java-based Object Relational Mapping framework)
 * [http-client-server-playground](https://github.com/dgroomes/http-client-server-playground)
   * > 📚 Learning and exploring various HTTP client and servers in the JVM eco-system: Netty, Jetty, Apache HTTP Components.
 * [insomnia-playground](https://github.com/dgroomes/insomnia-playground)
