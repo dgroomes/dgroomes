@@ -18,6 +18,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring Bash and capturing useful snippets that I would otherwise too easily forget
 * [browser-extension-framework](https://github.com/dgroomes/browser-extension-framework)
   * > 🛠 BrowserExtensionFramework is a zero-dependency RPC-centric framework for browser extensions
+* [bubbletea-playground](https://github.com/dgroomes/bubbletea-playground)
+  * > 📚 Learning and exploring the Go-based TUI framework: Bubble Tea
 * [config-playground](https://github.com/dgroomes/config-playground)
   * > 📚 Learning and exploring various configuration technologies
 * [default-branch-renamer](https://github.com/dgroomes/default-branch-renamer)
@@ -50,6 +52,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring GraphQL and *GraphQL Java* https://www.graphql-java.com/
 * [grpc-playground](https://github.com/dgroomes/grpc-playground)
   * > 📚 Learning and exploring gRPC
+* [h2-playground](https://github.com/dgroomes/h2-playground)
+  * > 📚 Learning and exploring H2 (the Java-based embedded SQL database)
 * [hadoop-playground](https://github.com/dgroomes/hadoop-playground)
   * > 📚 Learning and exploring core Apache Hadoop and its surrounding ecosystem
 * [hibernate-playground](https://github.com/dgroomes/hibernate-playground)
