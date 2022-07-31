@@ -138,6 +138,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring SQL (and Postgres in particular)
 * [stackoverflow-look-back](https://github.com/dgroomes/stackoverflow-look-back) ![pages-build-deployment](https://github.com/dgroomes/stackoverflow-look-back/workflows/pages-build-deployment/badge.svg)
   * > 🛠  Extract and search the posts you've up-voted on StackOverflow. Look back on your data.
+* [swift-playground](https://github.com/dgroomes/swift-playground)
+  * > 📚 Learning and exploring the Swift programming language
 * [tada](https://github.com/dgroomes/tada)
   * > ⏯ Demo Android application
 * [terminal-playground](https://github.com/dgroomes/terminal-playground)
