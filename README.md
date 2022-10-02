@@ -60,6 +60,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring Hibernate ORM (the Java-based Object Relational Mapping framework)
 * [http-client-server-playground](https://github.com/dgroomes/http-client-server-playground)
   * > 📚 Learning and exploring various HTTP client and servers in the JVM eco-system: Netty, Jetty, Apache HTTP Components.
+* [http4k-playground](https://github.com/dgroomes/http4k-playground)
+  * > 📚 Learning and exploring http4
 * [insomnia-playground](https://github.com/dgroomes/insomnia-playground)
   * > 📚 Learning and exploring NeDB
 * [intellij-playground](https://github.com/dgroomes/intellij-playground)
