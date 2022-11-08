@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 This is my [GitHub "profile README"](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-It is mostly generated from a simple Bash script. For details, see the [project notes](https://github.com/dgroomes/dgroomes/blob/main/README-2.md).
+It is generated from Bash scripts and jq code. For details, see the [project notes](https://github.com/dgroomes/dgroomes/blob/main/README-2.md).
 
 ### My Repositories
 
@@ -146,6 +146,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > ⏯ Demo Android application
 * [terminal-playground](https://github.com/dgroomes/terminal-playground)
   * > 📚 Learning and exploring features of the terminal
+* [testng-playground](https://github.com/dgroomes/testng-playground)
+  * > 📚 Learning and exploring TestNG
 * [threejs-playground](https://github.com/dgroomes/threejs-playground) ![pages-build-deployment](https://github.com/dgroomes/threejs-playground/workflows/pages-build-deployment/badge.svg)
   * > 📚 Learning and experimenting with three.js
 * [vscode-playground](https://github.com/dgroomes/vscode-playground)
