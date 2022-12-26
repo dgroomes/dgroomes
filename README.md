@@ -104,6 +104,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring Kubernetes and related tools (kubectl, Helm, etc.)
 * [libraries-the-book-kind](https://github.com/dgroomes/libraries-the-book-kind) ![pages-build-deployment](https://github.com/dgroomes/libraries-the-book-kind/workflows/pages-build-deployment/badge.svg)
   * > Exploring public libraries in the Hennepin County Library system in Minnesota
+* [linux-playground](https://github.com/dgroomes/linux-playground)
+  * > 📚 Learning and exploring Linux
 * [logging-playground](https://github.com/dgroomes/logging-playground)
   * > 📚 Learning and experimenting with logging libraries in the Java ecosystem
 * [lucene-playground](https://github.com/dgroomes/lucene-playground)
@@ -120,6 +122,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring Next.js
 * [picocli-playground](https://github.com/dgroomes/picocli-playground)
   * > 📚  Learning and exploring Picocli https://picocli.info
+* [python-playground](https://github.com/dgroomes/python-playground)
+  * > 📚 Learning and exploring the Python programming language
 * [react-playground](https://github.com/dgroomes/react-playground) ![pages-build-deployment](https://github.com/dgroomes/react-playground/workflows/pages-build-deployment/badge.svg)
   * > 📚 Learning and exploring React https://reactjs.org/
 * [redis-playground](https://github.com/dgroomes/redis-playground)
@@ -151,7 +155,7 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
 * [threejs-playground](https://github.com/dgroomes/threejs-playground) ![pages-build-deployment](https://github.com/dgroomes/threejs-playground/workflows/pages-build-deployment/badge.svg)
   * > 📚 Learning and experimenting with three.js
 * [vscode-playground](https://github.com/dgroomes/vscode-playground)
-  * > 📚 Learning and exploring Visual Studio Code
+  * > 📚 Learning and exploring Visual Studio Code (VS Code)
 * [wasm-playground](https://github.com/dgroomes/wasm-playground)
   * > 📚 Learning and exploring WebAssembly (Wasm)
 * [web-playground](https://github.com/dgroomes/web-playground) ![pages-build-deployment](https://github.com/dgroomes/web-playground/workflows/pages-build-deployment/badge.svg)
