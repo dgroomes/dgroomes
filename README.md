@@ -20,8 +20,12 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 🛠 BrowserExtensionFramework is a zero-dependency RPC-centric framework for browser extensions
 * [bubbletea-playground](https://github.com/dgroomes/bubbletea-playground)
   * > 📚 Learning and exploring the Go-based TUI framework: Bubble Tea
+* [c-playground](https://github.com/dgroomes/c-playground)
+  * > 📚 Learning and exploring the C programming language
 * [config-playground](https://github.com/dgroomes/config-playground)
   * > 📚 Learning and exploring various configuration technologies
+* [cypher-playground](https://github.com/dgroomes/cypher-playground)
+  * > 📚 Learning and exploring the Cypher query language for graph databases
 * [default-branch-renamer](https://github.com/dgroomes/default-branch-renamer)
   * > 🛠 A Bash script to rename the default branch for a GitHub repository
 * [deno-playground](https://github.com/dgroomes/deno-playground)
@@ -154,6 +158,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring TestNG
 * [threejs-playground](https://github.com/dgroomes/threejs-playground) ![pages-build-deployment](https://github.com/dgroomes/threejs-playground/workflows/pages-build-deployment/badge.svg)
   * > 📚 Learning and experimenting with three.js
+* [typescript-playground](https://github.com/dgroomes/typescript-playground)
+  * > 📚 Learning and exploring the TypeScript programming language
 * [vscode-playground](https://github.com/dgroomes/vscode-playground)
   * > 📚 Learning and exploring Visual Studio Code (VS Code)
 * [wasm-playground](https://github.com/dgroomes/wasm-playground)
