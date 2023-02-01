@@ -12,6 +12,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring the Algolia search platform
 * [antlr-playground](https://github.com/dgroomes/antlr-playground)
   * > 📚 Learning and exploring ANTLR (ANother Tool for Language Recognition)
+* [arrow-playground](https://github.com/dgroomes/arrow-playground)
+  * > 📚 Learning and exploring Apache Arrow
 * [aws-playground](https://github.com/dgroomes/aws-playground)
   * > 📚 Learning and exploring AWS (Amazon Web Services) by example
 * [bash-playground](https://github.com/dgroomes/bash-playground)
