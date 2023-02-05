@@ -54,7 +54,9 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring Gradle (the Java build tool)
 * [gradle-wrapper-upgrader](https://github.com/dgroomes/gradle-wrapper-upgrader)
   * > 🛠 Simple convenience script to help with upgrading the Gradle wrapper
-* [graphql-playground](https://github.com/dgroomes/graphql-playground)
+* [graphiql-playground](https://github.com/dgroomes/graphiql-playground)
+  * > 📚 Learning and exploring GraphiQL, the in-browser GraphQL IDE
+* [graphql-java-playground](https://github.com/dgroomes/graphql-java-playground)
   * > 📚 Learning and exploring GraphQL and *GraphQL Java* https://www.graphql-java.com/
 * [grpc-playground](https://github.com/dgroomes/grpc-playground)
   * > 📚 Learning and exploring gRPC
