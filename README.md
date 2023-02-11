@@ -78,6 +78,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring Intellij IDEA plugin development
 * [jackson-playground](https://github.com/dgroomes/jackson-playground)
   * > 📚 Learning and exploring Jackson (https://github.com/FasterXML/jackson)
+* [java-algorithms-playground](https://github.com/dgroomes/java-algorithms-playground)
+  * > 📚 Learning and exploring algorithms (simple ones!) in Java
 * [java-collections-playground](https://github.com/dgroomes/java-collections-playground)
   * > 📚 Learning and experimenting with the Java Collections Framework
 * [java-concurrency-playground](https://github.com/dgroomes/java-concurrency-playground)
