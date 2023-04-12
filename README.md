@@ -86,6 +86,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring concurrency in Java
 * [java-debug-playground](https://github.com/dgroomes/java-debug-playground)
   * > 📚 Learning and exploring debugging and profiling tools in Java, the Java toolchain and the Java ecosystem.
+* [java-in-memory-columnar-query-engine](https://github.com/dgroomes/java-in-memory-columnar-query-engine)
+  * > A toy Java implementation of a query engine over in-memory, columnar, schema-ful data
 * [java-io-playground](https://github.com/dgroomes/java-io-playground)
   * > 📚 Learning and exploring Java's IO (input/output) standard libraries
 * [java-metaprogramming-playground](https://github.com/dgroomes/java-metaprogramming-playground)
@@ -120,6 +122,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and experimenting with logging libraries in the Java ecosystem
 * [lucene-playground](https://github.com/dgroomes/lucene-playground)
   * > 📚 Learning and exploring Apache Lucene: the most widely-used open source search engine
+* [macos-playground](https://github.com/dgroomes/macos-playground)
+  * > 📚 Learning and exploring macOS
 * [markdownlint-playground](https://github.com/dgroomes/markdownlint-playground)
   * > 📚 Learning and exploring "markdownlint"
 * [micronaut-playground](https://github.com/dgroomes/micronaut-playground)
@@ -132,6 +136,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring Next.js
 * [picocli-playground](https://github.com/dgroomes/picocli-playground)
   * > 📚  Learning and exploring Picocli https://picocli.info
+* [poetry-playground](https://github.com/dgroomes/poetry-playground)
+  * > 📚 Learning and exploring Poetry, the Python package manager
 * [python-playground](https://github.com/dgroomes/python-playground)
   * > 📚 Learning and exploring the Python programming language
 * [react-playground](https://github.com/dgroomes/react-playground) ![pages-build-deployment](https://github.com/dgroomes/react-playground/workflows/pages-build-deployment/badge.svg)
