@@ -24,6 +24,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring the Go-based TUI framework: Bubble Tea
 * [c-playground](https://github.com/dgroomes/c-playground)
   * > 📚 Learning and exploring the C programming language
+* [calcite-playground](https://github.com/dgroomes/calcite-playground)
+  * > 📚 Learning and exploring Apache Calcite
 * [config-playground](https://github.com/dgroomes/config-playground)
   * > 📚 Learning and exploring various configuration technologies
 * [cypher-playground](https://github.com/dgroomes/cypher-playground)
@@ -52,8 +54,6 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and experimenting with the Go programming language
 * [gradle-playground](https://github.com/dgroomes/gradle-playground) ![Assemble all sub-projects](https://github.com/dgroomes/gradle-playground/workflows/Assemble%20all%20sub-projects/badge.svg)
   * > 📚 Learning and exploring Gradle (the Java build tool)
-* [gradle-wrapper-upgrader](https://github.com/dgroomes/gradle-wrapper-upgrader)
-  * > 🛠 Simple convenience script to help with upgrading the Gradle wrapper
 * [graphiql-playground](https://github.com/dgroomes/graphiql-playground)
   * > 📚 Learning and exploring GraphiQL, the in-browser GraphQL IDE
 * [graphql-java-playground](https://github.com/dgroomes/graphql-java-playground)
@@ -82,12 +82,12 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring algorithms (simple ones!) in Java
 * [java-collections-playground](https://github.com/dgroomes/java-collections-playground)
   * > 📚 Learning and experimenting with the Java Collections Framework
+* [java-columnar-query-engine](https://github.com/dgroomes/java-columnar-query-engine)
+  * > A toy Java implementation of a query engine over in-memory, columnar, schema-ful data
 * [java-concurrency-playground](https://github.com/dgroomes/java-concurrency-playground)
   * > 📚 Learning and exploring concurrency in Java
 * [java-debug-playground](https://github.com/dgroomes/java-debug-playground)
   * > 📚 Learning and exploring debugging and profiling tools in Java, the Java toolchain and the Java ecosystem.
-* [java-in-memory-columnar-query-engine](https://github.com/dgroomes/java-in-memory-columnar-query-engine)
-  * > A toy Java implementation of a query engine over in-memory, columnar, schema-ful data
 * [java-io-playground](https://github.com/dgroomes/java-io-playground)
   * > 📚 Learning and exploring Java's IO (input/output) standard libraries
 * [java-metaprogramming-playground](https://github.com/dgroomes/java-metaprogramming-playground)
@@ -187,7 +187,7 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
 
 Below is a list of [my gists](https://gist.github.com/dgroomes).
 
-* [`splitting-out-a-git-repo-from-a-git-repo.md`](https://gist.github.com/d174cc33ea7786736e2b62afdfb602ab)
-* [`build-openjdk-on-macos.md`](https://gist.github.com/3af073b71c2c34581a155af9daa86564)
-* [`upgrade-gradle-wrapper.md`](https://gist.github.com/3bfe7f24670e74ee814a7f8e3956cce6)
-* [`download-maven-dependencies-using-gradle.md`](https://gist.github.com/94f1032ec330ef7f1d9eaf6fa9dff597)
+* [`splitting-out-a-git-repo-from-a-git-repo.md`](https://gist.github.com/dgroomes/d174cc33ea7786736e2b62afdfb602ab)
+* [`build-openjdk-on-macos.md`](https://gist.github.com/dgroomes/3af073b71c2c34581a155af9daa86564)
+* [`upgrade-gradle-wrapper.md`](https://gist.github.com/dgroomes/3bfe7f24670e74ee814a7f8e3956cce6)
+* [`download-maven-dependencies-using-gradle.md`](https://gist.github.com/dgroomes/94f1032ec330ef7f1d9eaf6fa9dff597)
