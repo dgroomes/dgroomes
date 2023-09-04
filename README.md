@@ -36,7 +36,7 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring Deno
 * [dgroomes](https://github.com/dgroomes/dgroomes)
   * > This repo defines my GitHub "profile README"
-* [docker-playground](https://github.com/dgroomes/docker-playground) ![Run the 'compose/' sub-project](https://github.com/dgroomes/docker-playground/workflows/Run%20the%20'compose/'%20sub-project/badge.svg)
+* [docker-playground](https://github.com/dgroomes/docker-playground) ![Run the 'compose/' subproject](https://github.com/dgroomes/docker-playground/workflows/Run%20the%20'compose/'%20subproject/badge.svg)
   * > 📚 Learning and exploring Docker
 * [docker-shell-example](https://github.com/dgroomes/docker-shell-example) ![Docker Shell Example CI](https://github.com/dgroomes/docker-shell-example/workflows/Docker%20Shell%20Example%20CI/badge.svg)
   * > ⏯ Illustrating the shell in Docker
@@ -48,11 +48,11 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring Flyway, the Java-based database migration tool
 * [git-playground](https://github.com/dgroomes/git-playground)
   * > 📚 Learning and exploring Git
-* [github-pages-dynamic-viewer](https://github.com/dgroomes/github-pages-dynamic-viewer) ![pages-build-deployment](https://github.com/dgroomes/github-pages-dynamic-viewer/workflows/pages-build-deployment/badge.svg)
+* [github-pages-dynamic-viewer](https://github.com/dgroomes/github-pages-dynamic-viewer)
   * > 🛠 Dynamically load Markdown for a GitHub project in a simple web page
 * [go-playground](https://github.com/dgroomes/go-playground)
   * > 📚 Learning and experimenting with the Go programming language
-* [gradle-playground](https://github.com/dgroomes/gradle-playground) ![Assemble all sub-projects](https://github.com/dgroomes/gradle-playground/workflows/Assemble%20all%20sub-projects/badge.svg)
+* [gradle-playground](https://github.com/dgroomes/gradle-playground) ![Assemble all subprojects](https://github.com/dgroomes/gradle-playground/workflows/Assemble%20all%20subprojects/badge.svg)
   * > 📚 Learning and exploring Gradle (the Java build tool)
 * [graphiql-playground](https://github.com/dgroomes/graphiql-playground)
   * > 📚 Learning and exploring GraphiQL, the in-browser GraphQL IDE
@@ -88,6 +88,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring concurrency in Java
 * [java-debug-playground](https://github.com/dgroomes/java-debug-playground)
   * > 📚 Learning and exploring debugging and profiling tools in Java, the Java toolchain and the Java ecosystem.
+* [java-foreign-function-and-memory-api-playground](https://github.com/dgroomes/java-foreign-function-and-memory-api-playground)
+  * > 📚 Learning and exploring "off-heap" memory segments using Java's foreign memory API
 * [java-io-playground](https://github.com/dgroomes/java-io-playground)
   * > 📚 Learning and exploring Java's IO (input/output) standard libraries
 * [java-metaprogramming-playground](https://github.com/dgroomes/java-metaprogramming-playground)
@@ -100,6 +102,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring JDBC (Java Database Connectivity)
 * [jdk-playground](https://github.com/dgroomes/jdk-playground)
   * > 📚 Learning and exploring tools in the JDK (Java Development Kit)
+* [jest-playground](https://github.com/dgroomes/jest-playground)
+  * > 📚 Learning and exploring Jest, the JavaScript testing framework
 * [jmeter-playground](https://github.com/dgroomes/jmeter-playground)
   * > 📚 Learning and exploring Apache JMeter
 * [jooq-playground](https://github.com/dgroomes/jooq-playground)
@@ -150,11 +154,9 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring RocksDB
 * [rust-playground](https://github.com/dgroomes/rust-playground)
   * > 📚 Learning and exploring the Rust programming language
-* [simple-java-web-app](https://github.com/dgroomes/simple-java-web-app)
-  * > ⏯ How simple can a Java web application be?
 * [sourcegraph-playground](https://github.com/dgroomes/sourcegraph-playground)
   * > 📚 Learning and exploring Sourcegraph
-* [spring-playground](https://github.com/dgroomes/spring-playground) ![Assemble all sub-projects](https://github.com/dgroomes/spring-playground/workflows/Assemble%20all%20sub-projects/badge.svg)
+* [spring-playground](https://github.com/dgroomes/spring-playground) ![Assemble all subprojects](https://github.com/dgroomes/spring-playground/workflows/Assemble%20all%20subprojects/badge.svg)
   * > 📚 Learning and experimenting with Spring
 * [sql-playground](https://github.com/dgroomes/sql-playground)
   * > 📚 Learning and exploring SQL (and Postgres in particular)
@@ -168,8 +170,10 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring features of the terminal
 * [testng-playground](https://github.com/dgroomes/testng-playground)
   * > 📚 Learning and exploring TestNG
-* [threejs-playground](https://github.com/dgroomes/threejs-playground) ![pages-build-deployment](https://github.com/dgroomes/threejs-playground/workflows/pages-build-deployment/badge.svg)
+* [threejs-playground](https://github.com/dgroomes/threejs-playground)
   * > 📚 Learning and experimenting with three.js
+* [tomcat-playground](https://github.com/dgroomes/tomcat-playground)
+  * > 📚 Learning and exploring Apache Tomcat
 * [typescript-playground](https://github.com/dgroomes/typescript-playground)
   * > 📚 Learning and exploring the TypeScript programming language
 * [vscode-playground](https://github.com/dgroomes/vscode-playground)
