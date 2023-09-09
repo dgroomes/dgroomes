@@ -15,8 +15,6 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring ANTLR (ANother Tool for Language Recognition)
 * [arrow-playground](https://github.com/dgroomes/arrow-playground)
   * > 📚 Learning and exploring Apache Arrow
-* [astro-playground](https://github.com/dgroomes/astro-playground)
-  * > 📚 Learning and exploring Astro: a static site generator but with dynamism
 * [aws-playground](https://github.com/dgroomes/aws-playground)
   * > 📚 Learning and exploring AWS (Amazon Web Services) by example
 * [bash-playground](https://github.com/dgroomes/bash-playground)
