@@ -61,7 +61,7 @@ def format_md_repo_listing_table:
     | sort_by(.name)
     | map(select(.archived | not))
     | map(select(.fork | not))
-    | map([format_md_link(.name | sub("-playground"; ""; "g") | .[:24]; .html_url)])
+    | map([format_md_link(.name | sub("-playground"; ""; "g"); .html_url)])
     # Flatten the array to get a simple array of Markdown links
     | add
     # Chunk the array into sub-arrays of size 5 to create rows for the Markdown table
