@@ -8,26 +8,115 @@ It is generated from Bash scripts and jq code. For details, see the [project not
 
 Below is my personal fleet of [repositories](https://github.com/dgroomes?tab=repositories). It excludes *archived* repos.
 
-| | | | | |
-| --- | --- | --- | --- | --- |
-[algolia](https://github.com/dgroomes/algolia-playground) | [antlr](https://github.com/dgroomes/antlr-playground) | [arrow](https://github.com/dgroomes/arrow-playground) | [aws](https://github.com/dgroomes/aws-playground) | [bash](https://github.com/dgroomes/bash-playground)
-[browser-extension-framework](https://github.com/dgroomes/browser-extension-framework) | [bubbletea](https://github.com/dgroomes/bubbletea-playground) | [c](https://github.com/dgroomes/c-playground) | [calcite](https://github.com/dgroomes/calcite-playground) | [config](https://github.com/dgroomes/config-playground)
-[cypher](https://github.com/dgroomes/cypher-playground) | [default-branch-renamer](https://github.com/dgroomes/default-branch-renamer) | [deno](https://github.com/dgroomes/deno-playground) | [dgroomes](https://github.com/dgroomes/dgroomes) | [docker](https://github.com/dgroomes/docker-playground)
-[docker-shell-example](https://github.com/dgroomes/docker-shell-example) | [elastic](https://github.com/dgroomes/elastic-playground) | [electron](https://github.com/dgroomes/electron-playground) | [flyway](https://github.com/dgroomes/flyway-playground) | [git](https://github.com/dgroomes/git-playground)
-[github-pages-dynamic-viewer](https://github.com/dgroomes/github-pages-dynamic-viewer) | [go](https://github.com/dgroomes/go-playground) | [gradle](https://github.com/dgroomes/gradle-playground) | [graphiql](https://github.com/dgroomes/graphiql-playground) | [graphql-java](https://github.com/dgroomes/graphql-java-playground)
-[grpc](https://github.com/dgroomes/grpc-playground) | [h2](https://github.com/dgroomes/h2-playground) | [hadoop](https://github.com/dgroomes/hadoop-playground) | [hibernate](https://github.com/dgroomes/hibernate-playground) | [http-client-server](https://github.com/dgroomes/http-client-server-playground)
-[http4k](https://github.com/dgroomes/http4k-playground) | [insomnia](https://github.com/dgroomes/insomnia-playground) | [intellij](https://github.com/dgroomes/intellij-playground) | [intellij-plugin](https://github.com/dgroomes/intellij-plugin-playground) | [jackson](https://github.com/dgroomes/jackson-playground)
-[java-algorithms](https://github.com/dgroomes/java-algorithms-playground) | [java-collections](https://github.com/dgroomes/java-collections-playground) | [java-columnar-query-engine](https://github.com/dgroomes/java-columnar-query-engine) | [java-concurrency](https://github.com/dgroomes/java-concurrency-playground) | [java-debug](https://github.com/dgroomes/java-debug-playground)
-[java-foreign-function-and-memory-api](https://github.com/dgroomes/java-foreign-function-and-memory-api-playground) | [java-io](https://github.com/dgroomes/java-io-playground) | [java-metaprogramming](https://github.com/dgroomes/java-metaprogramming-playground) | [java-time](https://github.com/dgroomes/java-time-playground) | [javascript](https://github.com/dgroomes/javascript-playground)
-[jdbc](https://github.com/dgroomes/jdbc-playground) | [jdk](https://github.com/dgroomes/jdk-playground) | [jest](https://github.com/dgroomes/jest-playground) | [jmeter](https://github.com/dgroomes/jmeter-playground) | [jooq](https://github.com/dgroomes/jooq-playground)
-[jq](https://github.com/dgroomes/jq-playground) | [jshell](https://github.com/dgroomes/jshell-playground) | [junit](https://github.com/dgroomes/junit-playground) | [kafka](https://github.com/dgroomes/kafka-playground) | [kubernetes](https://github.com/dgroomes/kubernetes-playground)
-[libraries-the-book-kind](https://github.com/dgroomes/libraries-the-book-kind) | [linux](https://github.com/dgroomes/linux-playground) | [logging](https://github.com/dgroomes/logging-playground) | [lucene](https://github.com/dgroomes/lucene-playground) | [macos](https://github.com/dgroomes/macos-playground)
-[markdownlint](https://github.com/dgroomes/markdownlint-playground) | [micronaut](https://github.com/dgroomes/micronaut-playground) | [mongodb](https://github.com/dgroomes/mongodb-playground) | [my-config](https://github.com/dgroomes/my-config) | [nextjs](https://github.com/dgroomes/nextjs-playground)
-[picocli](https://github.com/dgroomes/picocli-playground) | [poetry](https://github.com/dgroomes/poetry-playground) | [python](https://github.com/dgroomes/python-playground) | [react](https://github.com/dgroomes/react-playground) | [redis](https://github.com/dgroomes/redis-playground)
-[redux](https://github.com/dgroomes/redux-playground) | [rocksdb](https://github.com/dgroomes/rocksdb-playground) | [rust](https://github.com/dgroomes/rust-playground) | [sourcegraph](https://github.com/dgroomes/sourcegraph-playground) | [spring](https://github.com/dgroomes/spring-playground)
-[sql](https://github.com/dgroomes/sql-playground) | [stackoverflow-look-back](https://github.com/dgroomes/stackoverflow-look-back) | [swift](https://github.com/dgroomes/swift-playground) | [tada](https://github.com/dgroomes/tada) | [terminal](https://github.com/dgroomes/terminal-playground)
-[testng](https://github.com/dgroomes/testng-playground) | [threejs](https://github.com/dgroomes/threejs-playground) | [tomcat](https://github.com/dgroomes/tomcat-playground) | [typescript](https://github.com/dgroomes/typescript-playground) | [vscode](https://github.com/dgroomes/vscode-playground)
-[wasm](https://github.com/dgroomes/wasm-playground) | [web](https://github.com/dgroomes/web-playground) | [wickdb](https://github.com/dgroomes/wickdb-playground) | [wiremock](https://github.com/dgroomes/wiremock-playground)
+<table>
+<tr>
+<td><a href='https://github.com/dgroomes/algolia-playground'>algolia-playground</a></td>
+<td><a href='https://github.com/dgroomes/antlr-playground'>antlr-playground</a></td>
+<td><a href='https://github.com/dgroomes/arrow-playground'>arrow-playground</a></td>
+<td><a href='https://github.com/dgroomes/aws-playground'>aws-playground</a></td>
+<td><a href='https://github.com/dgroomes/bash-playground'>bash-playground</a></td></tr>
+<tr>
+<td><a href='https://github.com/dgroomes/browser-extension-framework'>browser-extension-framework</a></td>
+<td><a href='https://github.com/dgroomes/bubbletea-playground'>bubbletea-playground</a></td>
+<td><a href='https://github.com/dgroomes/c-playground'>c-playground</a></td>
+<td><a href='https://github.com/dgroomes/calcite-playground'>calcite-playground</a></td>
+<td><a href='https://github.com/dgroomes/config-playground'>config-playground</a></td></tr>
+<tr>
+<td><a href='https://github.com/dgroomes/cypher-playground'>cypher-playground</a></td>
+<td><a href='https://github.com/dgroomes/default-branch-renamer'>default-branch-renamer</a></td>
+<td><a href='https://github.com/dgroomes/deno-playground'>deno-playground</a></td>
+<td><a href='https://github.com/dgroomes/dgroomes'>dgroomes</a></td>
+<td><a href='https://github.com/dgroomes/docker-playground'>docker-playground</a></td></tr>
+<tr>
+<td><a href='https://github.com/dgroomes/docker-shell-example'>docker-shell-example</a></td>
+<td><a href='https://github.com/dgroomes/elastic-playground'>elastic-playground</a></td>
+<td><a href='https://github.com/dgroomes/electron-playground'>electron-playground</a></td>
+<td><a href='https://github.com/dgroomes/flyway-playground'>flyway-playground</a></td>
+<td><a href='https://github.com/dgroomes/git-playground'>git-playground</a></td></tr>
+<tr>
+<td><a href='https://github.com/dgroomes/github-pages-dynamic-viewer'>github-pages-dynamic-viewer</a></td>
+<td><a href='https://github.com/dgroomes/go-playground'>go-playground</a></td>
+<td><a href='https://github.com/dgroomes/gradle-playground'>gradle-playground</a></td>
+<td><a href='https://github.com/dgroomes/graphiql-playground'>graphiql-playground</a></td>
+<td><a href='https://github.com/dgroomes/graphql-java-playground'>graphql-java-playground</a></td></tr>
+<tr>
+<td><a href='https://github.com/dgroomes/grpc-playground'>grpc-playground</a></td>
+<td><a href='https://github.com/dgroomes/h2-playground'>h2-playground</a></td>
+<td><a href='https://github.com/dgroomes/hadoop-playground'>hadoop-playground</a></td>
+<td><a href='https://github.com/dgroomes/hibernate-playground'>hibernate-playground</a></td>
+<td><a href='https://github.com/dgroomes/http-client-server-playground'>http-client-server-playground</a></td></tr>
+<tr>
+<td><a href='https://github.com/dgroomes/http4k-playground'>http4k-playground</a></td>
+<td><a href='https://github.com/dgroomes/insomnia-playground'>insomnia-playground</a></td>
+<td><a href='https://github.com/dgroomes/intellij-playground'>intellij-playground</a></td>
+<td><a href='https://github.com/dgroomes/intellij-plugin-playground'>intellij-plugin-playground</a></td>
+<td><a href='https://github.com/dgroomes/jackson-playground'>jackson-playground</a></td></tr>
+<tr>
+<td><a href='https://github.com/dgroomes/java-algorithms-playground'>java-algorithms-playground</a></td>
+<td><a href='https://github.com/dgroomes/java-collections-playground'>java-collections-playground</a></td>
+<td><a href='https://github.com/dgroomes/java-columnar-query-engine'>java-columnar-query-engine</a></td>
+<td><a href='https://github.com/dgroomes/java-concurrency-playground'>java-concurrency-playground</a></td>
+<td><a href='https://github.com/dgroomes/java-debug-playground'>java-debug-playground</a></td></tr>
+<tr>
+<td><a href='https://github.com/dgroomes/java-foreign-function-and-memory-api-playground'>java-foreign-function-and-memory-api-playground</a></td>
+<td><a href='https://github.com/dgroomes/java-io-playground'>java-io-playground</a></td>
+<td><a href='https://github.com/dgroomes/java-metaprogramming-playground'>java-metaprogramming-playground</a></td>
+<td><a href='https://github.com/dgroomes/java-time-playground'>java-time-playground</a></td>
+<td><a href='https://github.com/dgroomes/javascript-playground'>javascript-playground</a></td></tr>
+<tr>
+<td><a href='https://github.com/dgroomes/jdbc-playground'>jdbc-playground</a></td>
+<td><a href='https://github.com/dgroomes/jdk-playground'>jdk-playground</a></td>
+<td><a href='https://github.com/dgroomes/jest-playground'>jest-playground</a></td>
+<td><a href='https://github.com/dgroomes/jmeter-playground'>jmeter-playground</a></td>
+<td><a href='https://github.com/dgroomes/jooq-playground'>jooq-playground</a></td></tr>
+<tr>
+<td><a href='https://github.com/dgroomes/jq-playground'>jq-playground</a></td>
+<td><a href='https://github.com/dgroomes/jshell-playground'>jshell-playground</a></td>
+<td><a href='https://github.com/dgroomes/junit-playground'>junit-playground</a></td>
+<td><a href='https://github.com/dgroomes/kafka-playground'>kafka-playground</a></td>
+<td><a href='https://github.com/dgroomes/kubernetes-playground'>kubernetes-playground</a></td></tr>
+<tr>
+<td><a href='https://github.com/dgroomes/libraries-the-book-kind'>libraries-the-book-kind</a></td>
+<td><a href='https://github.com/dgroomes/linux-playground'>linux-playground</a></td>
+<td><a href='https://github.com/dgroomes/logging-playground'>logging-playground</a></td>
+<td><a href='https://github.com/dgroomes/lucene-playground'>lucene-playground</a></td>
+<td><a href='https://github.com/dgroomes/macos-playground'>macos-playground</a></td></tr>
+<tr>
+<td><a href='https://github.com/dgroomes/markdownlint-playground'>markdownlint-playground</a></td>
+<td><a href='https://github.com/dgroomes/micronaut-playground'>micronaut-playground</a></td>
+<td><a href='https://github.com/dgroomes/mongodb-playground'>mongodb-playground</a></td>
+<td><a href='https://github.com/dgroomes/my-config'>my-config</a></td>
+<td><a href='https://github.com/dgroomes/nextjs-playground'>nextjs-playground</a></td></tr>
+<tr>
+<td><a href='https://github.com/dgroomes/picocli-playground'>picocli-playground</a></td>
+<td><a href='https://github.com/dgroomes/poetry-playground'>poetry-playground</a></td>
+<td><a href='https://github.com/dgroomes/python-playground'>python-playground</a></td>
+<td><a href='https://github.com/dgroomes/react-playground'>react-playground</a></td>
+<td><a href='https://github.com/dgroomes/redis-playground'>redis-playground</a></td></tr>
+<tr>
+<td><a href='https://github.com/dgroomes/redux-playground'>redux-playground</a></td>
+<td><a href='https://github.com/dgroomes/rocksdb-playground'>rocksdb-playground</a></td>
+<td><a href='https://github.com/dgroomes/rust-playground'>rust-playground</a></td>
+<td><a href='https://github.com/dgroomes/sourcegraph-playground'>sourcegraph-playground</a></td>
+<td><a href='https://github.com/dgroomes/spring-playground'>spring-playground</a></td></tr>
+<tr>
+<td><a href='https://github.com/dgroomes/sql-playground'>sql-playground</a></td>
+<td><a href='https://github.com/dgroomes/stackoverflow-look-back'>stackoverflow-look-back</a></td>
+<td><a href='https://github.com/dgroomes/swift-playground'>swift-playground</a></td>
+<td><a href='https://github.com/dgroomes/tada'>tada</a></td>
+<td><a href='https://github.com/dgroomes/terminal-playground'>terminal-playground</a></td></tr>
+<tr>
+<td><a href='https://github.com/dgroomes/testng-playground'>testng-playground</a></td>
+<td><a href='https://github.com/dgroomes/threejs-playground'>threejs-playground</a></td>
+<td><a href='https://github.com/dgroomes/tomcat-playground'>tomcat-playground</a></td>
+<td><a href='https://github.com/dgroomes/typescript-playground'>typescript-playground</a></td>
+<td><a href='https://github.com/dgroomes/vscode-playground'>vscode-playground</a></td></tr>
+<tr>
+<td><a href='https://github.com/dgroomes/wasm-playground'>wasm-playground</a></td>
+<td><a href='https://github.com/dgroomes/web-playground'>web-playground</a></td>
+<td><a href='https://github.com/dgroomes/wickdb-playground'>wickdb-playground</a></td>
+<td><a href='https://github.com/dgroomes/wiremock-playground'>wiremock-playground</a></td></tr>
+</table>
 
 * [algolia-playground](https://github.com/dgroomes/algolia-playground)
   * > 📚 Learning and exploring the Algolia search platform

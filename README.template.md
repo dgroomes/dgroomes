@@ -8,9 +8,9 @@ It is generated from Bash scripts and jq code. For details, see the [project not
 
 Below is my personal fleet of [repositories](https://github.com/dgroomes?tab=repositories). It excludes *archived* repos.
 
-| | | | | |
-| --- | --- | --- | --- | --- |
+<table>
 %REPOS_TABLE%
+</table>
 
 %REPOS_LIST%
 

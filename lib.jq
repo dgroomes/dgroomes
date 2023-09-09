@@ -55,20 +55,15 @@ def chunk($size):
         [.[0:$size]], (.[ $size: ] | chunk($size))
     end;
 
-# Format a Markdown listing of GitHub repos but in a table format.
-def format_md_repo_listing_table:
+# Generate an HTML table listing of GitHub repos
+def format_html_repo_listing_table:
     workflows_to_map as $workflows_map
     | sort_by(.name)
     | map(select(.archived | not))
     | map(select(.fork | not))
-    | map([format_md_link(.name | sub("-playground"; ""; "g"); .html_url)])
-    # Flatten the array to get a simple array of Markdown links
-    | add
-    # Chunk the array into sub-arrays of size 5 to create rows for the Markdown table
-    | chunk(5)
-    # Convert each chunk into a Markdown table row
-    | map(join(" | "))
-    # Join all the rows into a single Markdown table
+    | map("<td><a href='\(.html_url)'>\(.name)</a></td>") # Create an HTML link and table cell for each repo
+    | chunk(5)                                            # Chunk into sections to create rows
+    | map(join("\n") | "<tr>\n" + . + "</tr>")            # Concatenate the cells and wrap in a row element
     | join("\n");
 
 

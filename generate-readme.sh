@@ -7,7 +7,7 @@
 set -eu
 
 # Format the Markdown snippets from the GitHub JSON data
-repos_table=$(cat repos.json | jq -r  --slurpfile workflows <(cat tmp/_temp-workflow-*) 'include "lib"; format_md_repo_listing_table')
+repos_table=$(cat repos.json | jq -r  --slurpfile workflows <(cat tmp/_temp-workflow-*) 'include "lib"; format_html_repo_listing_table')
 repos_list=$(cat repos.json | jq -r  --slurpfile workflows <(cat tmp/_temp-workflow-*) 'include "lib"; format_md_repo_listing_list')
 gists=$(cat gists.json | jq -r 'include "lib"; format_md_gist_listing')
 
