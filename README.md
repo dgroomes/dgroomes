@@ -1,9 +1,10 @@
-### Hello! 👋
+# Hello! 👋
 
 This is my [GitHub "profile README"](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 It is generated from Bash scripts and jq code. For details, see the [project notes](https://github.com/dgroomes/dgroomes/blob/main/README-2.md).
 
-### My Repositories
+
+## My Repositories
 
 Below is a list of [my repositories](https://github.com/dgroomes?tab=repositories) in alphabetical order. It excludes
 *archived* repos.
@@ -14,6 +15,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
   * > 📚 Learning and exploring ANTLR (ANother Tool for Language Recognition)
 * [arrow-playground](https://github.com/dgroomes/arrow-playground)
   * > 📚 Learning and exploring Apache Arrow
+* [astro-playground](https://github.com/dgroomes/astro-playground)
+  * > 📚 Learning and exploring Astro: a static site generator but with dynamism
 * [aws-playground](https://github.com/dgroomes/aws-playground)
   * > 📚 Learning and exploring AWS (Amazon Web Services) by example
 * [bash-playground](https://github.com/dgroomes/bash-playground)
@@ -187,7 +190,8 @@ Below is a list of [my repositories](https://github.com/dgroomes?tab=repositorie
 * [wiremock-playground](https://github.com/dgroomes/wiremock-playground)
   * > 📚 Learning and exploring WireMock
 
-### My Gists
+
+## My Gists
 
 Below is a list of [my gists](https://gist.github.com/dgroomes).
 
