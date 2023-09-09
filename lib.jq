@@ -61,9 +61,16 @@ def format_html_repo_listing_table:
     | sort_by(.name)
     | map(select(.archived | not))
     | map(select(.fork | not))
-    | map("<td><a href='\(.html_url)'>\(.name)</a></td>") # Create an HTML link and table cell for each repo
-    | chunk(5)                                            # Chunk into sections to create rows
-    | map(join("\n") | "<tr>\n" + . + "</tr>")            # Concatenate the cells and wrap in a row element
+    | map(. + { short_name: .name | sub("-playground"; ""; "g") })
+
+    # Create an HTML link and table cell for each repo
+    | map("<td><a href='\(.html_url)'>\(.short_name)</a></td>")
+
+    # Chunk into sections to create rows
+    | chunk(5)
+
+    # Create rows and wrap in table row tags
+    | map(join("\n") | "<tr>\n" + . + "</tr>")
     | join("\n");
 
 
