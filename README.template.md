@@ -6,10 +6,13 @@ It is generated from Bash scripts and jq code. For details, see the [project not
 
 ## My Repositories
 
-Below is a list of [my repositories](https://github.com/dgroomes?tab=repositories) in alphabetical order. It excludes
-*archived* repos.
+Below is my personal fleet of [repositories](https://github.com/dgroomes?tab=repositories). It excludes *archived* repos.
 
-%REPOS%
+| | | | | |
+| --- | --- | --- | --- | --- |
+%REPOS_TABLE%
+
+%REPOS_LIST%
 
 
 ## My Gists
