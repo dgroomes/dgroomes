@@ -14,9 +14,9 @@ NOTE: I am using macOS to execute these scripts.
 1. Download your GitHub repositories and gists data with:
     * `./refresh-github-data.sh repos`
     * `./refresh-github-data.sh gists`
-1. Generate a `README.md` file from your now-downloaded GitHub data with:
+2. Generate a `README.md` file from your now-downloaded GitHub data with:
     * `./generate-readme.sh`
-1. Customize the `README.md` by hand to your taste! For example, add a note at the top about yourself. Or, delete
+3. Customize the `README.md` by hand to your taste! For example, add a note at the top about yourself. Or, delete
    certain repositories or gists that you don't want to highlight. 
 
 The simple auto-generation script plus some hand-written customization is a good mix of automation and simplicity, in my 
@@ -27,17 +27,19 @@ into Intellij) let's me easily re-apply my customizations after the "generate" s
 
 General clean-ups, TODOs and things I wish to implement for this project:
 
-* DONE Download the `repos.json` and `gists.json` files from a script
-* DONE Exclude "archived" repos from the "generate" script
-* DONE Exclude forked repos
-* DONE Add my GitHub gists to the README. Automate this process in the "generate" script.
-* DONE Use a template file (`README.template.md`) to de-couple the data and scripting stuff from the hand-written
+* [x] DONEDownload the `repos.json` and `gists.json` files from a script
+* [x] DONEExclude "archived" repos from the "generate" script
+* [x] DONEExclude forked repos
+* [x] DONEAdd my GitHub gists to the README. Automate this process in the "generate" script.
+* [x] DONEUse a template file (`README.template.md`) to de-couple the data and scripting stuff from the hand-written
   content. After all, it's easy to glance at `README.template.md` and quickly get an idea for what this repo is all
   about!
-* DONE Generate GitHub Actions workflow status badges in the `generate-readme.sh` script. This will be practical only if the
+* [x] DONE Generate GitHub Actions workflow status badges in the `generate-readme.sh` script. This will be practical only if the
   badge URLs can be automatically gleaned from information returned by the GitHub APIs. If the status badge URL must be
   manually written then that goes against the spirit of this tool, which is to automatically generate the vast majority
   of the GitHub personal README page content. Requires research. Read the [docs on workflow status badges](https://docs.github.com/en/actions/managing-workflow-runs/adding-a-workflow-status-badge).
+* Implement paging so I can get above 100 repos.
+
 
 ## Referenced Materials
 
