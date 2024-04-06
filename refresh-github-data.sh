@@ -12,8 +12,6 @@ TEMP_DIR=tmp
 REPOS_URL_PATTERN="%s/users/%s/repos?per_page=$PER_PAGE"
 # 'List gists for a user' API URL path pattern. https://docs.github.com/en/rest/reference/gists#list-gists-for-a-user
 GISTS_URL_PATTERN="%s/users/%s/gists?per_page=$PER_PAGE"
-# 'List repository workflows' API URL path pattern. https://docs.github.com/en/rest/reference/actions#workflows
-ACTIONS_WORKFLOWS_URL_PATTERN="%s/repos/%s/%s/actions/workflows"
 
 usage() {
   echo >&2 "Usage: $0 <repos | gists>"
@@ -52,37 +50,6 @@ elif [[ "$DATA_TYPE" == "repos" ]]; then
   URL=$(printf $REPOS_URL_PATTERN $GITHUB_API_ORIGIN $USER)
   DOWNLOAD_FILE="repos.json"
   download
-
-  # Download the GitHub Actions "workflows" data, repo by repo.
-  #
-  # List each repository name on a new line so that we can easily iterate over the list in the script and curl the GitHub
-  # API to get GitHub Actions "Workflow" data for each repo.
-  #
-  # Editorialization: A side effect of implementing a program with a combination of jq and another programming language (in this case Bash)
-  # is that the message passing is difficult. Passing data *to* jq is easy: we just send our data (JSON formatted already
-  # because that's what APIs use!) into standard input and jq can do its thing. By contrast, extracting data *from* jq for
-  # use in Bash is hard. Bash doesn't understand JSON and so we have to use techniques like formatting the data in tab-separated
-  # tuples and having each tuple on a new line. Then, in the Bash script we can iterate over the the lines naturally and
-  # use a command like "cut" to access the specific tab-separated columns. jq is nice because it's an expressive functional
-  # language but it can't do things like make HTTP requests and so we have to pair a jq program with another programming
-  # language and resort to tricks like creating intermediate "message passing" files to get data out of jq and into Bash.
-  REPO_NAMES="$TEMP_DIR/_temp-repo-names.txt"
-  cat "$DOWNLOAD_FILE" | jq -r 'include "lib"; list_repo_names' > "$REPO_NAMES"
-
-  WORKFLOWS="_temp-workflows.txt"
-  while read -r repo_name; do
-    echo "repo_name: $repo_name"
-    URL=$(printf "$ACTIONS_WORKFLOWS_URL_PATTERN" "$GITHUB_API_ORIGIN" "$USER" "$repo_name")
-    DOWNLOAD_FILE="$TEMP_DIR/_temp-workflow-$repo_name.json"
-    download
-
-    # Splice in the repo name to the JSON to make life easier for the 'generate-readme.sh' script.
-    tmp="$TEMP_DIR/temp.json"
-    > "$tmp"
-    cat "$DOWNLOAD_FILE" | jq --arg repo_name "$repo_name" '. + { $repo_name }' > "$tmp"
-    mv "$tmp" "$DOWNLOAD_FILE"
-  done < "$REPO_NAMES"
-
 else
   usage
 fi

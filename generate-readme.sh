@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Generate a GitHub "profile README" with a simple listing of all public repos and gists sorted alphabetically
+# Generate a GitHub "profile README" with a listing of all public repos and gists sorted alphabetically
 # ascending.
 #
 # Requires a copy of the repo data and gists data. See the notes in 'lib.jq' for the relevant GitHub API documentation.
@@ -7,8 +7,8 @@
 set -eu
 
 # Format the Markdown snippets from the GitHub JSON data
-repos_table=$(cat repos.json | jq -r  --slurpfile workflows <(cat tmp/_temp-workflow-*) 'include "lib"; format_html_repo_listing_table')
-repos_list=$(cat repos.json | jq -r  --slurpfile workflows <(cat tmp/_temp-workflow-*) 'include "lib"; format_md_repo_listing_list')
+repos_table=$(cat repos.json | jq -r 'include "lib"; format_html_repo_listing_table')
+repos_list=$(cat repos.json | jq -r 'include "lib"; format_md_repo_listing_list')
 gists=$(cat gists.json | jq -r 'include "lib"; format_md_gist_listing')
 
 # Stamp out the README.md file from the template file using 'awk'.

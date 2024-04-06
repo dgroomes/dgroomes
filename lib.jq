@@ -16,35 +16,15 @@ def first_field:
     keys[0] as $firstfield | .[$firstfield];
 
 
-# Build a map from the array of GitHub Actions worfklows. The map is keyed by repo name.
-# Assumes that the workflows are passed via a global "$workflows" variable.
-def workflows_to_map:
-  $workflows
-  | map({ key: .repo_name, value: .workflows })
-  | from_entries;
-
-
-# Construct the Markdown fragment for each GitHub Actions workflow "badge".
-# If there are no workflows, return an empty string.
-def format_md_badges(workflows):
-  if workflows | length == 0
-  then ""
-  else workflows | .[] | " ![\(.name)](\(.badge_url))"
-  end;
-
-
 # Format a Markdown listing of GitHub repos
 # The listing is sorted alphabetically, excludes archived repos, and excludes forked repos
 def format_md_repo_listing_list:
-    workflows_to_map as $workflows_map
-    | sort_by(.name)
-    | map(. + { workflows: $workflows_map[.name] })
+    sort_by(.name)
     | .[]
     | select(.archived | not)
     | select(.fork | not)
     | format_md_link(.name; .html_url) as $link
-    | format_md_badges(.workflows) as $badges
-    | "* \($link)\($badges)\n  * > \(.description)";
+    | "* \($link)\n  * > \(.description)";
 
 
 # Utility function to create array chunks (sub-arrays of a given size)
@@ -57,8 +37,7 @@ def chunk($size):
 
 # Generate an HTML table listing of GitHub repos
 def format_html_repo_listing_table:
-    workflows_to_map as $workflows_map
-    | sort_by(.name)
+    sort_by(.name)
     | map(select(.archived | not))
     | map(select(.fork | not))
     | map(. + { short_name: .name | sub("-playground"; ""; "g") })
