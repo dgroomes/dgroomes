@@ -53,12 +53,14 @@ General clean-ups, TODOs and things I wish to implement for this project:
   badge URLs can be automatically gleaned from information returned by the GitHub APIs. If the status badge URL must be
   manually written then that goes against the spirit of this tool, which is to automatically generate the vast majority
   of the GitHub personal README page content. Requires research. Read the [docs on workflow status badges](https://docs.github.com/en/actions/managing-workflow-runs/adding-a-workflow-status-badge).
-* [ ] Implement paging so I can get above 100 repos.
+* [x] DONE Implement pagination so I can get above 100 repos.
 * [x] DONE Rewrite the Bash script into Python (or any non-string language) because now I need to do pagination and things
   are silly.
 * [x] DONE Drop the GitHub actions stuff. Way too gnarly (which I knew at the time and that was the reward of making
   something work and documenting the costs). If I bring it back it will be done in the main script (like Python)
   instead of parsing/passing/temp-directory-ing between Bash, files and jq.
+* [ ] Re-implement `generate-readme.sh` in Python. Note that I don't really need to re-implement the jq stuff necessarily
+  as long as I'm using it in a small funcional way. But as soon as you get into message passing it's not worth it.
 
 
 ## Reference

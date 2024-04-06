@@ -118,7 +118,16 @@ Below is my personal fleet of [repositories](https://github.com/dgroomes?tab=rep
 <td><a href='https://github.com/dgroomes/terminal-playground'>terminal</a></td>
 <td><a href='https://github.com/dgroomes/testng-playground'>testng</a></td></tr>
 <tr>
-<td><a href='https://github.com/dgroomes/threejs-playground'>threejs</a></td></tr>
+<td><a href='https://github.com/dgroomes/threejs-playground'>threejs</a></td>
+<td><a href='https://github.com/dgroomes/tomcat-playground'>tomcat</a></td>
+<td><a href='https://github.com/dgroomes/typescript-playground'>typescript</a></td>
+<td><a href='https://github.com/dgroomes/vscode-playground'>vscode</a></td>
+<td><a href='https://github.com/dgroomes/wasm-playground'>wasm</a></td></tr>
+<tr>
+<td><a href='https://github.com/dgroomes/web-playground'>web</a></td>
+<td><a href='https://github.com/dgroomes/webpack-playground'>webpack</a></td>
+<td><a href='https://github.com/dgroomes/wickdb-playground'>wickdb</a></td>
+<td><a href='https://github.com/dgroomes/wiremock-playground'>wiremock</a></td></tr>
 </table>
 
 * [algolia-playground](https://github.com/dgroomes/algolia-playground)
@@ -303,6 +312,22 @@ Below is my personal fleet of [repositories](https://github.com/dgroomes?tab=rep
   * > 📚 Learning and exploring TestNG
 * [threejs-playground](https://github.com/dgroomes/threejs-playground)
   * > 📚 Learning and experimenting with three.js
+* [tomcat-playground](https://github.com/dgroomes/tomcat-playground)
+  * > 📚 Learning and exploring Apache Tomcat
+* [typescript-playground](https://github.com/dgroomes/typescript-playground)
+  * > 📚 Learning and exploring the TypeScript programming language
+* [vscode-playground](https://github.com/dgroomes/vscode-playground)
+  * > 📚 Learning and exploring Visual Studio Code (VS Code)
+* [wasm-playground](https://github.com/dgroomes/wasm-playground)
+  * > 📚 Learning and exploring WebAssembly (Wasm)
+* [web-playground](https://github.com/dgroomes/web-playground)
+  * > 📚 Learning and experimenting with various web technologies
+* [webpack-playground](https://github.com/dgroomes/webpack-playground)
+  * > 📚 Learning and exploring webpack
+* [wickdb-playground](https://github.com/dgroomes/wickdb-playground)
+  * > 📚 Learning and exploring the pure Rust LSM-tree embedded storage engine wickdb
+* [wiremock-playground](https://github.com/dgroomes/wiremock-playground)
+  * > 📚 Learning and exploring WireMock
 
 
 ## My Gists

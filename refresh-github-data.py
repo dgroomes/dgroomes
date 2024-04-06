@@ -1,3 +1,4 @@
+import json
 import os
 import sys
 from http.client import HTTPSConnection
@@ -11,6 +12,7 @@ This makes requests to the GitHub API, runs the data through jq, and writes the 
 GITHUB_API_HOST = "api.github.com"
 USER = "dgroomes"
 PER_PAGE = 100
+PAGE_SAFEGUARD_LIMIT = 10
 
 
 class GitHubClient:
@@ -53,19 +55,37 @@ class GitHubClient:
         return response.read().decode()
 
 
-def download(client, url_path, download_file):
+def download(client, base_url_path, download_file):
     """
-    Download data from the GitHub API and write it to a file.
+    Download data from the GitHub API for a paginated endpoint and write the data to a file.
 
     :param client: The GitHub client
-    :param url_path: For example, "/users/dgroomes/repos?per_page=100"
+    :param base_url_path: For example, "/users/dgroomes/repos"
     :param download_file: The file to write the data to. For example, "repos.json"
     :return:
     """
-    json = client.get(url_path)
+    data = []
+    page = 1
+    while page is not None:
+        if page >= PAGE_SAFEGUARD_LIMIT:
+            print(
+                f"Reached the safeguard limit of {PAGE_SAFEGUARD_LIMIT} pages. Stopping. Has something gone "
+                "haywire or do you really need to make that many paged requests?")
+            sys.exit(1)
+
+        url_path = f"{base_url_path}&page={page}"
+        response_json = client.get(url_path)
+        response_list = json.loads(response_json)
+        data.extend(response_list)
+
+        # Are there more pages worth of data to fetch? We can check the 'Link' header, but we can also just check if the
+        # last response was an empty list. If it was, then we're done.
+        if len(response_list) == 0:
+            break
+        page += 1
 
     with open(download_file, 'w') as f:
-        f.write(json)
+        json.dump(data, f, indent=2)
 
     print(f"Data downloaded to '{download_file}'")
 
