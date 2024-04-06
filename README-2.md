@@ -10,14 +10,27 @@ repo as a template for your own GitHub "profile README" by clicking the "Use thi
 
 ## Instructions
 
-NOTE: I am using macOS to execute these scripts.
+Follow these instructions to download the data for your GitHub repositories and gists, and then generate a `README.md`.
 
-1. Download your GitHub repositories and gists data with:
-    * `./refresh-github-data.sh repos`
-    * `./refresh-github-data.sh gists`
-2. Generate a `README.md` file from your now-downloaded GitHub data with:
-    * `./generate-readme.sh`
-3. Customize the `README.md` by hand to your taste! For example, add a note at the top about yourself. Or, delete
+
+1. Pre-requisites: Python 3, `jq`, `awk`
+    * Also, I'm using macOS to execute these scripts.
+2. Export a GitHub personal access
+    * ```text
+       export GITHUB_PAT=your_token_here
+      ```
+3. Download your GitHub repositories and gists data with:
+    * ```shell
+      python3 refresh-github-data.py repos
+      ```
+    * ```shell
+      python3 refresh-github-data.py gists
+      ```
+4. Generate a `README.md` file from your now-downloaded GitHub data with:
+    * ```shell
+      ./generate-readme.sh
+      ```
+5. Customize the `README.md` by hand to your taste! For example, add a note at the top about yourself. Or, delete
    certain repositories or gists that you don't want to highlight. 
 
 The simple auto-generation script plus some handwritten customization is a good mix of automation and simplicity, in my 
@@ -40,14 +53,14 @@ General clean-ups, TODOs and things I wish to implement for this project:
   badge URLs can be automatically gleaned from information returned by the GitHub APIs. If the status badge URL must be
   manually written then that goes against the spirit of this tool, which is to automatically generate the vast majority
   of the GitHub personal README page content. Requires research. Read the [docs on workflow status badges](https://docs.github.com/en/actions/managing-workflow-runs/adding-a-workflow-status-badge).
-* Implement paging so I can get above 100 repos.
-* [ ] Rewrite the Bash script into Python (or any non-string language) because now I need to do pagination and things
+* [ ] Implement paging so I can get above 100 repos.
+* [x] DONE Rewrite the Bash script into Python (or any non-string language) because now I need to do pagination and things
   are silly.
 * [x] DONE Drop the GitHub actions stuff. Way too gnarly (which I knew at the time and that was the reward of making
   something work and documenting the costs). If I bring it back it will be done in the main script (like Python)
   instead of parsing/passing/temp-directory-ing between Bash, files and jq.
 
 
-## Referenced Materials
+## Reference
 
 * [jq docs](https://stedolan.github.io/jq/manual/)
