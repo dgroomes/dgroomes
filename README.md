@@ -89,35 +89,37 @@ Below is my personal fleet of [repositories](https://github.com/dgroomes?tab=rep
 <td><a href='https://github.com/dgroomes/my-github-explorer'>my-github-explorer</a></td></tr>
 <tr>
 <td><a href='https://github.com/dgroomes/nextjs-playground'>nextjs</a></td>
+<td><a href='https://github.com/dgroomes/nushell-playground'>nushell</a></td>
 <td><a href='https://github.com/dgroomes/open-rewrite-playground'>open-rewrite</a></td>
 <td><a href='https://github.com/dgroomes/open-telemetry-playground'>open-telemetry</a></td>
-<td><a href='https://github.com/dgroomes/picocli-playground'>picocli</a></td>
-<td><a href='https://github.com/dgroomes/poetry-playground'>poetry</a></td></tr>
+<td><a href='https://github.com/dgroomes/openai-playground'>openai</a></td></tr>
 <tr>
+<td><a href='https://github.com/dgroomes/picocli-playground'>picocli</a></td>
+<td><a href='https://github.com/dgroomes/poetry-playground'>poetry</a></td>
 <td><a href='https://github.com/dgroomes/python-playground'>python</a></td>
 <td><a href='https://github.com/dgroomes/react-playground'>react</a></td>
-<td><a href='https://github.com/dgroomes/redis-playground'>redis</a></td>
-<td><a href='https://github.com/dgroomes/redux-playground'>redux</a></td>
-<td><a href='https://github.com/dgroomes/rocksdb-playground'>rocksdb</a></td></tr>
+<td><a href='https://github.com/dgroomes/redis-playground'>redis</a></td></tr>
 <tr>
+<td><a href='https://github.com/dgroomes/redux-playground'>redux</a></td>
+<td><a href='https://github.com/dgroomes/rocksdb-playground'>rocksdb</a></td>
 <td><a href='https://github.com/dgroomes/rust-playground'>rust</a></td>
 <td><a href='https://github.com/dgroomes/spock-playground'>spock</a></td>
-<td><a href='https://github.com/dgroomes/spring-playground'>spring</a></td>
-<td><a href='https://github.com/dgroomes/sql-playground'>sql</a></td>
-<td><a href='https://github.com/dgroomes/stackoverflow-look-back'>stackoverflow-look-back</a></td></tr>
+<td><a href='https://github.com/dgroomes/spring-playground'>spring</a></td></tr>
 <tr>
+<td><a href='https://github.com/dgroomes/sql-playground'>sql</a></td>
+<td><a href='https://github.com/dgroomes/stackoverflow-look-back'>stackoverflow-look-back</a></td>
 <td><a href='https://github.com/dgroomes/swift-playground'>swift</a></td>
 <td><a href='https://github.com/dgroomes/swing-playground'>swing</a></td>
-<td><a href='https://github.com/dgroomes/terminal-playground'>terminal</a></td>
-<td><a href='https://github.com/dgroomes/testng-playground'>testng</a></td>
-<td><a href='https://github.com/dgroomes/threejs-playground'>threejs</a></td></tr>
+<td><a href='https://github.com/dgroomes/terminal-playground'>terminal</a></td></tr>
 <tr>
+<td><a href='https://github.com/dgroomes/testng-playground'>testng</a></td>
+<td><a href='https://github.com/dgroomes/threejs-playground'>threejs</a></td>
 <td><a href='https://github.com/dgroomes/tomcat-playground'>tomcat</a></td>
 <td><a href='https://github.com/dgroomes/typescript-playground'>typescript</a></td>
-<td><a href='https://github.com/dgroomes/vscode-playground'>vscode</a></td>
-<td><a href='https://github.com/dgroomes/wasm-playground'>wasm</a></td>
-<td><a href='https://github.com/dgroomes/web-playground'>web</a></td></tr>
+<td><a href='https://github.com/dgroomes/vscode-playground'>vscode</a></td></tr>
 <tr>
+<td><a href='https://github.com/dgroomes/wasm-playground'>wasm</a></td>
+<td><a href='https://github.com/dgroomes/web-playground'>web</a></td>
 <td><a href='https://github.com/dgroomes/webpack-playground'>webpack</a></td>
 <td><a href='https://github.com/dgroomes/wiremock-playground'>wiremock</a></td></tr>
 </table>
@@ -254,10 +256,14 @@ Below is my personal fleet of [repositories](https://github.com/dgroomes?tab=rep
   * > ⏯ A toy GitHub data explorer which I'm using to explore frontend tech like GraphiQL, React hooks, and Redux.
 * [nextjs-playground](https://github.com/dgroomes/nextjs-playground)
   * > 📚 Learning and exploring Next.js
+* [nushell-playground](https://github.com/dgroomes/nushell-playground)
+  * > 📚 Learning and exploring Nushell
 * [open-rewrite-playground](https://github.com/dgroomes/open-rewrite-playground)
   * > 📚 Learning and exploring OpenRewrite
 * [open-telemetry-playground](https://github.com/dgroomes/open-telemetry-playground)
   * > 📚 Learning and exploring OpenTelemetry via the official Java agent and an Influx stack
+* [openai-playground](https://github.com/dgroomes/openai-playground)
+  * > 📚 Learning and exploring OpenAI and LLM APIs in general
 * [picocli-playground](https://github.com/dgroomes/picocli-playground)
   * > 📚  Learning and exploring Picocli https://picocli.info
 * [poetry-playground](https://github.com/dgroomes/poetry-playground)
