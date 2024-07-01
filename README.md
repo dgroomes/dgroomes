@@ -43,83 +43,87 @@ Below is my personal fleet of [repositories](https://github.com/dgroomes?tab=rep
 <td><a href='https://github.com/dgroomes/hadoop-playground'>hadoop</a></td>
 <td><a href='https://github.com/dgroomes/helidon-playground'>helidon</a></td>
 <td><a href='https://github.com/dgroomes/hibernate-playground'>hibernate</a></td>
-<td><a href='https://github.com/dgroomes/http-client-server-playground'>http-client-server</a></td>
-<td><a href='https://github.com/dgroomes/http4k-playground'>http4k</a></td></tr>
+<td><a href='https://github.com/dgroomes/homebrew-playground'>homebrew</a></td>
+<td><a href='https://github.com/dgroomes/http-client-server-playground'>http-client-server</a></td></tr>
 <tr>
+<td><a href='https://github.com/dgroomes/http4k-playground'>http4k</a></td>
 <td><a href='https://github.com/dgroomes/intellij-playground'>intellij</a></td>
 <td><a href='https://github.com/dgroomes/intellij-plugin-playground'>intellij-plugin</a></td>
 <td><a href='https://github.com/dgroomes/jackson-playground'>jackson</a></td>
-<td><a href='https://github.com/dgroomes/java-agents-playground'>java-agents</a></td>
-<td><a href='https://github.com/dgroomes/java-algorithms-playground'>java-algorithms</a></td></tr>
+<td><a href='https://github.com/dgroomes/java-agents-playground'>java-agents</a></td></tr>
 <tr>
+<td><a href='https://github.com/dgroomes/java-algorithms-playground'>java-algorithms</a></td>
 <td><a href='https://github.com/dgroomes/java-class-loading-playground'>java-class-loading</a></td>
 <td><a href='https://github.com/dgroomes/java-collections-playground'>java-collections</a></td>
 <td><a href='https://github.com/dgroomes/java-columnar-query-engine'>java-columnar-query-engine</a></td>
-<td><a href='https://github.com/dgroomes/java-concurrency-playground'>java-concurrency</a></td>
-<td><a href='https://github.com/dgroomes/java-debug-playground'>java-debug</a></td></tr>
+<td><a href='https://github.com/dgroomes/java-concurrency-playground'>java-concurrency</a></td></tr>
 <tr>
+<td><a href='https://github.com/dgroomes/java-debug-playground'>java-debug</a></td>
 <td><a href='https://github.com/dgroomes/java-foreign-function-and-memory-api-playground'>java-foreign-function-and-memory-api</a></td>
 <td><a href='https://github.com/dgroomes/java-io-playground'>java-io</a></td>
 <td><a href='https://github.com/dgroomes/java-metaprogramming-playground'>java-metaprogramming</a></td>
-<td><a href='https://github.com/dgroomes/java-time-playground'>java-time</a></td>
-<td><a href='https://github.com/dgroomes/javascript-playground'>javascript</a></td></tr>
+<td><a href='https://github.com/dgroomes/java-time-playground'>java-time</a></td></tr>
 <tr>
+<td><a href='https://github.com/dgroomes/javascript-playground'>javascript</a></td>
 <td><a href='https://github.com/dgroomes/jdbc-playground'>jdbc</a></td>
 <td><a href='https://github.com/dgroomes/jdk-playground'>jdk</a></td>
 <td><a href='https://github.com/dgroomes/jest-playground'>jest</a></td>
-<td><a href='https://github.com/dgroomes/jmeter-playground'>jmeter</a></td>
-<td><a href='https://github.com/dgroomes/jooq-playground'>jooq</a></td></tr>
+<td><a href='https://github.com/dgroomes/jmeter-playground'>jmeter</a></td></tr>
 <tr>
+<td><a href='https://github.com/dgroomes/jooq-playground'>jooq</a></td>
 <td><a href='https://github.com/dgroomes/jq-playground'>jq</a></td>
 <td><a href='https://github.com/dgroomes/jshell-playground'>jshell</a></td>
 <td><a href='https://github.com/dgroomes/junit-playground'>junit</a></td>
-<td><a href='https://github.com/dgroomes/kafka-playground'>kafka</a></td>
-<td><a href='https://github.com/dgroomes/kubernetes-playground'>kubernetes</a></td></tr>
+<td><a href='https://github.com/dgroomes/kafka-playground'>kafka</a></td></tr>
 <tr>
+<td><a href='https://github.com/dgroomes/kubernetes-playground'>kubernetes</a></td>
+<td><a href='https://github.com/dgroomes/langchain-playground'>langchain</a></td>
 <td><a href='https://github.com/dgroomes/linux-playground'>linux</a></td>
 <td><a href='https://github.com/dgroomes/logging-playground'>logging</a></td>
-<td><a href='https://github.com/dgroomes/lucene-playground'>lucene</a></td>
-<td><a href='https://github.com/dgroomes/macos-playground'>macos</a></td>
-<td><a href='https://github.com/dgroomes/markdownlint-playground'>markdownlint</a></td></tr>
+<td><a href='https://github.com/dgroomes/lucene-playground'>lucene</a></td></tr>
 <tr>
+<td><a href='https://github.com/dgroomes/macos-playground'>macos</a></td>
+<td><a href='https://github.com/dgroomes/markdownlint-playground'>markdownlint</a></td>
 <td><a href='https://github.com/dgroomes/micrometer-playground'>micrometer</a></td>
 <td><a href='https://github.com/dgroomes/micronaut-playground'>micronaut</a></td>
-<td><a href='https://github.com/dgroomes/mongodb-playground'>mongodb</a></td>
-<td><a href='https://github.com/dgroomes/my-config'>my-config</a></td>
-<td><a href='https://github.com/dgroomes/my-github-explorer'>my-github-explorer</a></td></tr>
+<td><a href='https://github.com/dgroomes/mongodb-playground'>mongodb</a></td></tr>
 <tr>
+<td><a href='https://github.com/dgroomes/my-config'>my-config</a></td>
+<td><a href='https://github.com/dgroomes/my-github-explorer'>my-github-explorer</a></td>
 <td><a href='https://github.com/dgroomes/nextjs-playground'>nextjs</a></td>
 <td><a href='https://github.com/dgroomes/nushell-playground'>nushell</a></td>
-<td><a href='https://github.com/dgroomes/open-rewrite-playground'>open-rewrite</a></td>
-<td><a href='https://github.com/dgroomes/open-telemetry-playground'>open-telemetry</a></td>
-<td><a href='https://github.com/dgroomes/openai-playground'>openai</a></td></tr>
+<td><a href='https://github.com/dgroomes/open-rewrite-playground'>open-rewrite</a></td></tr>
 <tr>
+<td><a href='https://github.com/dgroomes/open-telemetry-playground'>open-telemetry</a></td>
+<td><a href='https://github.com/dgroomes/openai-playground'>openai</a></td>
 <td><a href='https://github.com/dgroomes/picocli-playground'>picocli</a></td>
 <td><a href='https://github.com/dgroomes/poetry-playground'>poetry</a></td>
-<td><a href='https://github.com/dgroomes/python-playground'>python</a></td>
-<td><a href='https://github.com/dgroomes/react-playground'>react</a></td>
-<td><a href='https://github.com/dgroomes/redis-playground'>redis</a></td></tr>
+<td><a href='https://github.com/dgroomes/python-playground'>python</a></td></tr>
 <tr>
+<td><a href='https://github.com/dgroomes/react-playground'>react</a></td>
+<td><a href='https://github.com/dgroomes/redis-playground'>redis</a></td>
 <td><a href='https://github.com/dgroomes/redux-playground'>redux</a></td>
 <td><a href='https://github.com/dgroomes/rocksdb-playground'>rocksdb</a></td>
+<td><a href='https://github.com/dgroomes/ruby-playground'>ruby</a></td></tr>
+<tr>
 <td><a href='https://github.com/dgroomes/rust-playground'>rust</a></td>
 <td><a href='https://github.com/dgroomes/spock-playground'>spock</a></td>
-<td><a href='https://github.com/dgroomes/spring-playground'>spring</a></td></tr>
-<tr>
+<td><a href='https://github.com/dgroomes/spring-playground'>spring</a></td>
 <td><a href='https://github.com/dgroomes/sql-playground'>sql</a></td>
-<td><a href='https://github.com/dgroomes/stackoverflow-look-back'>stackoverflow-look-back</a></td>
+<td><a href='https://github.com/dgroomes/stackoverflow-look-back'>stackoverflow-look-back</a></td></tr>
+<tr>
 <td><a href='https://github.com/dgroomes/swift-playground'>swift</a></td>
 <td><a href='https://github.com/dgroomes/swing-playground'>swing</a></td>
-<td><a href='https://github.com/dgroomes/terminal-playground'>terminal</a></td></tr>
-<tr>
+<td><a href='https://github.com/dgroomes/terminal-playground'>terminal</a></td>
 <td><a href='https://github.com/dgroomes/testng-playground'>testng</a></td>
-<td><a href='https://github.com/dgroomes/threejs-playground'>threejs</a></td>
+<td><a href='https://github.com/dgroomes/threejs-playground'>threejs</a></td></tr>
+<tr>
 <td><a href='https://github.com/dgroomes/tomcat-playground'>tomcat</a></td>
 <td><a href='https://github.com/dgroomes/typescript-playground'>typescript</a></td>
-<td><a href='https://github.com/dgroomes/vscode-playground'>vscode</a></td></tr>
-<tr>
+<td><a href='https://github.com/dgroomes/vscode-playground'>vscode</a></td>
 <td><a href='https://github.com/dgroomes/wasm-playground'>wasm</a></td>
-<td><a href='https://github.com/dgroomes/web-playground'>web</a></td>
+<td><a href='https://github.com/dgroomes/web-playground'>web</a></td></tr>
+<tr>
 <td><a href='https://github.com/dgroomes/webpack-playground'>webpack</a></td>
 <td><a href='https://github.com/dgroomes/wiremock-playground'>wiremock</a></td></tr>
 </table>
@@ -180,6 +184,8 @@ Below is my personal fleet of [repositories](https://github.com/dgroomes?tab=rep
   * > 📚 Learning and exploring the Helidon web server
 * [hibernate-playground](https://github.com/dgroomes/hibernate-playground)
   * > 📚 Learning and exploring Hibernate ORM (the Java-based Object Relational Mapping framework)
+* [homebrew-playground](https://github.com/dgroomes/homebrew-playground)
+  * > 📚 Learning and exploring Homebrew (macOS package manager)
 * [http-client-server-playground](https://github.com/dgroomes/http-client-server-playground)
   * > 📚 Learning and exploring various HTTP client and servers in the JVM eco-system: Netty, Jetty, Apache HTTP Components.
 * [http4k-playground](https://github.com/dgroomes/http4k-playground)
@@ -234,6 +240,8 @@ Below is my personal fleet of [repositories](https://github.com/dgroomes?tab=rep
   * > 📚 Learning and experimenting with Apache Kafka
 * [kubernetes-playground](https://github.com/dgroomes/kubernetes-playground)
   * > 📚 Learning and exploring Kubernetes and related tools (kubectl, Helm, etc.)
+* [langchain-playground](https://github.com/dgroomes/langchain-playground)
+  * > 📚 Learning and exploring LangChain
 * [linux-playground](https://github.com/dgroomes/linux-playground)
   * > 📚 Learning and exploring Linux
 * [logging-playground](https://github.com/dgroomes/logging-playground)
@@ -278,6 +286,8 @@ Below is my personal fleet of [repositories](https://github.com/dgroomes?tab=rep
   * > 📚 Learning and experimenting with Redux by example
 * [rocksdb-playground](https://github.com/dgroomes/rocksdb-playground)
   * > 📚 Learning and exploring RocksDB
+* [ruby-playground](https://github.com/dgroomes/ruby-playground)
+  * > 📚 Learning and exploring the Ruby programming language
 * [rust-playground](https://github.com/dgroomes/rust-playground)
   * > 📚 Learning and exploring the Rust programming language
 * [spock-playground](https://github.com/dgroomes/spock-playground)
