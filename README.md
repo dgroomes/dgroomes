@@ -78,53 +78,52 @@ Below is my personal fleet of [repositories](https://github.com/dgroomes?tab=rep
 <tr>
 <td><a href='https://github.com/dgroomes/kotlin-playground'>kotlin</a></td>
 <td><a href='https://github.com/dgroomes/kubernetes-playground'>kubernetes</a></td>
-<td><a href='https://github.com/dgroomes/langchain-playground'>langchain</a></td>
 <td><a href='https://github.com/dgroomes/linux-playground'>linux</a></td>
-<td><a href='https://github.com/dgroomes/logging-playground'>logging</a></td></tr>
+<td><a href='https://github.com/dgroomes/logging-playground'>logging</a></td>
+<td><a href='https://github.com/dgroomes/lucene-playground'>lucene</a></td></tr>
 <tr>
-<td><a href='https://github.com/dgroomes/lucene-playground'>lucene</a></td>
 <td><a href='https://github.com/dgroomes/macos-playground'>macos</a></td>
 <td><a href='https://github.com/dgroomes/markdownlint-playground'>markdownlint</a></td>
 <td><a href='https://github.com/dgroomes/micrometer-playground'>micrometer</a></td>
-<td><a href='https://github.com/dgroomes/micronaut-playground'>micronaut</a></td></tr>
+<td><a href='https://github.com/dgroomes/micronaut-playground'>micronaut</a></td>
+<td><a href='https://github.com/dgroomes/mongodb-playground'>mongodb</a></td></tr>
 <tr>
-<td><a href='https://github.com/dgroomes/mongodb-playground'>mongodb</a></td>
 <td><a href='https://github.com/dgroomes/my-github-explorer'>my-github-explorer</a></td>
 <td><a href='https://github.com/dgroomes/my-software'>my-software</a></td>
 <td><a href='https://github.com/dgroomes/nextjs-playground'>nextjs</a></td>
-<td><a href='https://github.com/dgroomes/nushell-playground'>nushell</a></td></tr>
+<td><a href='https://github.com/dgroomes/nushell-playground'>nushell</a></td>
+<td><a href='https://github.com/dgroomes/open-rewrite-playground'>open-rewrite</a></td></tr>
 <tr>
-<td><a href='https://github.com/dgroomes/open-rewrite-playground'>open-rewrite</a></td>
 <td><a href='https://github.com/dgroomes/open-telemetry-playground'>open-telemetry</a></td>
 <td><a href='https://github.com/dgroomes/openai-playground'>openai</a></td>
 <td><a href='https://github.com/dgroomes/picocli-playground'>picocli</a></td>
-<td><a href='https://github.com/dgroomes/poetry-playground'>poetry</a></td></tr>
+<td><a href='https://github.com/dgroomes/poetry-playground'>poetry</a></td>
+<td><a href='https://github.com/dgroomes/python-playground'>python</a></td></tr>
 <tr>
-<td><a href='https://github.com/dgroomes/python-playground'>python</a></td>
+<td><a href='https://github.com/dgroomes/raycast-playground'>raycast</a></td>
 <td><a href='https://github.com/dgroomes/react-playground'>react</a></td>
 <td><a href='https://github.com/dgroomes/redis-playground'>redis</a></td>
-<td><a href='https://github.com/dgroomes/redux-playground'>redux</a></td>
-<td><a href='https://github.com/dgroomes/rocksdb-playground'>rocksdb</a></td></tr>
+<td><a href='https://github.com/dgroomes/rocksdb-playground'>rocksdb</a></td>
+<td><a href='https://github.com/dgroomes/ruby-playground'>ruby</a></td></tr>
 <tr>
-<td><a href='https://github.com/dgroomes/ruby-playground'>ruby</a></td>
 <td><a href='https://github.com/dgroomes/rust-playground'>rust</a></td>
 <td><a href='https://github.com/dgroomes/spock-playground'>spock</a></td>
 <td><a href='https://github.com/dgroomes/spring-playground'>spring</a></td>
-<td><a href='https://github.com/dgroomes/sql-playground'>sql</a></td></tr>
+<td><a href='https://github.com/dgroomes/sql-playground'>sql</a></td>
+<td><a href='https://github.com/dgroomes/stackoverflow-look-back'>stackoverflow-look-back</a></td></tr>
 <tr>
-<td><a href='https://github.com/dgroomes/stackoverflow-look-back'>stackoverflow-look-back</a></td>
 <td><a href='https://github.com/dgroomes/swift-playground'>swift</a></td>
 <td><a href='https://github.com/dgroomes/swing-playground'>swing</a></td>
 <td><a href='https://github.com/dgroomes/terminal-playground'>terminal</a></td>
-<td><a href='https://github.com/dgroomes/testng-playground'>testng</a></td></tr>
+<td><a href='https://github.com/dgroomes/testng-playground'>testng</a></td>
+<td><a href='https://github.com/dgroomes/threejs-playground'>threejs</a></td></tr>
 <tr>
-<td><a href='https://github.com/dgroomes/threejs-playground'>threejs</a></td>
 <td><a href='https://github.com/dgroomes/tomcat-playground'>tomcat</a></td>
 <td><a href='https://github.com/dgroomes/typescript-playground'>typescript</a></td>
 <td><a href='https://github.com/dgroomes/vscode-playground'>vscode</a></td>
-<td><a href='https://github.com/dgroomes/wasm-playground'>wasm</a></td></tr>
+<td><a href='https://github.com/dgroomes/wasm-playground'>wasm</a></td>
+<td><a href='https://github.com/dgroomes/web-playground'>web</a></td></tr>
 <tr>
-<td><a href='https://github.com/dgroomes/web-playground'>web</a></td>
 <td><a href='https://github.com/dgroomes/webpack-playground'>webpack</a></td>
 <td><a href='https://github.com/dgroomes/wiremock-playground'>wiremock</a></td></tr>
 </table>
@@ -243,8 +242,6 @@ Below is my personal fleet of [repositories](https://github.com/dgroomes?tab=rep
   * > 📚 Learning the Kotlin programming language
 * [kubernetes-playground](https://github.com/dgroomes/kubernetes-playground)
   * > 📚 Learning and exploring Kubernetes and related tools (kubectl, Helm, etc.)
-* [langchain-playground](https://github.com/dgroomes/langchain-playground)
-  * > 📚 Learning and exploring LangChain
 * [linux-playground](https://github.com/dgroomes/linux-playground)
   * > 📚 Learning and exploring Linux
 * [logging-playground](https://github.com/dgroomes/logging-playground)
@@ -281,12 +278,12 @@ Below is my personal fleet of [repositories](https://github.com/dgroomes?tab=rep
   * > 📚 Learning and exploring Poetry, the Python package manager
 * [python-playground](https://github.com/dgroomes/python-playground)
   * > 📚 Learning and exploring the Python programming language
+* [raycast-playground](https://github.com/dgroomes/raycast-playground)
+  * > 📚 Learning and exploring Raycast
 * [react-playground](https://github.com/dgroomes/react-playground)
   * > 📚 Learning and exploring React https://reactjs.org/
 * [redis-playground](https://github.com/dgroomes/redis-playground)
   * > 📚 Learning and exploring Redis
-* [redux-playground](https://github.com/dgroomes/redux-playground)
-  * > 📚 Learning and experimenting with Redux by example
 * [rocksdb-playground](https://github.com/dgroomes/rocksdb-playground)
   * > 📚 Learning and exploring RocksDB
 * [ruby-playground](https://github.com/dgroomes/ruby-playground)
