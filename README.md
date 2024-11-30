@@ -110,21 +110,20 @@ Below is my personal fleet of [repositories](https://github.com/dgroomes?tab=rep
 <td><a href='https://github.com/dgroomes/spock-playground'>spock</a></td>
 <td><a href='https://github.com/dgroomes/spring-playground'>spring</a></td>
 <td><a href='https://github.com/dgroomes/sql-playground'>sql</a></td>
-<td><a href='https://github.com/dgroomes/stackoverflow-look-back'>stackoverflow-look-back</a></td></tr>
+<td><a href='https://github.com/dgroomes/swift-playground'>swift</a></td></tr>
 <tr>
-<td><a href='https://github.com/dgroomes/swift-playground'>swift</a></td>
 <td><a href='https://github.com/dgroomes/swing-playground'>swing</a></td>
 <td><a href='https://github.com/dgroomes/terminal-playground'>terminal</a></td>
 <td><a href='https://github.com/dgroomes/testng-playground'>testng</a></td>
-<td><a href='https://github.com/dgroomes/threejs-playground'>threejs</a></td></tr>
+<td><a href='https://github.com/dgroomes/threejs-playground'>threejs</a></td>
+<td><a href='https://github.com/dgroomes/tomcat-playground'>tomcat</a></td></tr>
 <tr>
-<td><a href='https://github.com/dgroomes/tomcat-playground'>tomcat</a></td>
 <td><a href='https://github.com/dgroomes/typescript-playground'>typescript</a></td>
 <td><a href='https://github.com/dgroomes/vscode-playground'>vscode</a></td>
 <td><a href='https://github.com/dgroomes/wasm-playground'>wasm</a></td>
-<td><a href='https://github.com/dgroomes/web-playground'>web</a></td></tr>
+<td><a href='https://github.com/dgroomes/web-playground'>web</a></td>
+<td><a href='https://github.com/dgroomes/webpack-playground'>webpack</a></td></tr>
 <tr>
-<td><a href='https://github.com/dgroomes/webpack-playground'>webpack</a></td>
 <td><a href='https://github.com/dgroomes/wiremock-playground'>wiremock</a></td></tr>
 </table>
 
@@ -261,7 +260,7 @@ Below is my personal fleet of [repositories](https://github.com/dgroomes?tab=rep
 * [my-github-explorer](https://github.com/dgroomes/my-github-explorer)
   * > ⏯ A toy GitHub data explorer which I'm using to explore frontend tech like GraphiQL, React hooks, and Redux.
 * [my-software](https://github.com/dgroomes/my-software)
-  * > My personal software: dot files, utility programs, installation instructions, and more
+  * > My personal software: dot files, utility programs, setup instructions, and more
 * [nextjs-playground](https://github.com/dgroomes/nextjs-playground)
   * > 📚 Learning and exploring Next.js
 * [nushell-playground](https://github.com/dgroomes/nushell-playground)
@@ -296,8 +295,6 @@ Below is my personal fleet of [repositories](https://github.com/dgroomes?tab=rep
   * > 📚 Learning and experimenting with Spring
 * [sql-playground](https://github.com/dgroomes/sql-playground)
   * > 📚 Learning and exploring SQL (and Postgres in particular)
-* [stackoverflow-look-back](https://github.com/dgroomes/stackoverflow-look-back)
-  * > 🛠  Extract and search the posts you've up-voted on StackOverflow. Look back on your data.
 * [swift-playground](https://github.com/dgroomes/swift-playground)
   * > 📚 Learning and exploring the Swift programming language
 * [swing-playground](https://github.com/dgroomes/swing-playground)
