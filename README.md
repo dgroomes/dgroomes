@@ -109,27 +109,28 @@ Below is my personal fleet of [repositories](https://github.com/dgroomes?tab=rep
 <td><a href='https://github.com/dgroomes/python-playground'>python</a></td>
 <td><a href='https://github.com/dgroomes/raycast-playground'>raycast</a></td>
 <td><a href='https://github.com/dgroomes/react-playground'>react</a></td>
-<td><a href='https://github.com/dgroomes/redis-playground'>redis</a></td>
-<td><a href='https://github.com/dgroomes/rocksdb-playground'>rocksdb</a></td></tr>
+<td><a href='https://github.com/dgroomes/react-toolchains-playground'>react-toolchains</a></td>
+<td><a href='https://github.com/dgroomes/redis-playground'>redis</a></td></tr>
 <tr>
+<td><a href='https://github.com/dgroomes/rocksdb-playground'>rocksdb</a></td>
 <td><a href='https://github.com/dgroomes/ruby-playground'>ruby</a></td>
 <td><a href='https://github.com/dgroomes/rust-playground'>rust</a></td>
 <td><a href='https://github.com/dgroomes/spark-playground'>spark</a></td>
-<td><a href='https://github.com/dgroomes/spock-playground'>spock</a></td>
-<td><a href='https://github.com/dgroomes/spring-playground'>spring</a></td></tr>
+<td><a href='https://github.com/dgroomes/spock-playground'>spock</a></td></tr>
 <tr>
+<td><a href='https://github.com/dgroomes/spring-playground'>spring</a></td>
 <td><a href='https://github.com/dgroomes/sql-playground'>sql</a></td>
 <td><a href='https://github.com/dgroomes/swift-playground'>swift</a></td>
 <td><a href='https://github.com/dgroomes/swing-playground'>swing</a></td>
-<td><a href='https://github.com/dgroomes/terminal-playground'>terminal</a></td>
-<td><a href='https://github.com/dgroomes/testng-playground'>testng</a></td></tr>
+<td><a href='https://github.com/dgroomes/terminal-playground'>terminal</a></td></tr>
 <tr>
+<td><a href='https://github.com/dgroomes/testng-playground'>testng</a></td>
 <td><a href='https://github.com/dgroomes/threejs-playground'>threejs</a></td>
 <td><a href='https://github.com/dgroomes/tomcat-playground'>tomcat</a></td>
 <td><a href='https://github.com/dgroomes/typescript-playground'>typescript</a></td>
-<td><a href='https://github.com/dgroomes/vscode-playground'>vscode</a></td>
-<td><a href='https://github.com/dgroomes/wasm-playground'>wasm</a></td></tr>
+<td><a href='https://github.com/dgroomes/vscode-playground'>vscode</a></td></tr>
 <tr>
+<td><a href='https://github.com/dgroomes/wasm-playground'>wasm</a></td>
 <td><a href='https://github.com/dgroomes/web-playground'>web</a></td>
 <td><a href='https://github.com/dgroomes/webpack-playground'>webpack</a></td>
 <td><a href='https://github.com/dgroomes/wiremock-playground'>wiremock</a></td></tr>
@@ -301,6 +302,8 @@ Below is my personal fleet of [repositories](https://github.com/dgroomes?tab=rep
   * > 📚 Learning and exploring Raycast
 * [react-playground](https://github.com/dgroomes/react-playground)
   * > 📚 Learning and exploring React https://reactjs.org/
+* [react-toolchains-playground](https://github.com/dgroomes/react-toolchains-playground)
+  * > 📚 Learning and exploring build toolchains and bundlers in the context of a React app: Vite, webpack, esbuild, etc.
 * [redis-playground](https://github.com/dgroomes/redis-playground)
   * > 📚 Learning and exploring Redis
 * [rocksdb-playground](https://github.com/dgroomes/rocksdb-playground)
