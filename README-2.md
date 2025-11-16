@@ -11,7 +11,7 @@ data. These scripts are general-purpose enough to copy and use for yourself.
 
 Follow these instructions to download the data for your GitHub repositories and gists, and then generate a `README.md`.
 
-1. Pre-requisites: Python 3, `jq`, `awk`, and Nushell
+1. Pre-requisites: Python 3 and Nushell
     * Also, I'm using macOS to execute these scripts.
 2. Activate the `do.nu` script:
     * ```nushell
@@ -67,7 +67,8 @@ General clean-ups, TODOs and things I wish to implement for this project:
 * [x] DONE Nushell. This is my shell now I don't want to bother with POSIX-like instructions like ` export GITHUB_PAT=your_token_here`
   which isn't valid nu syntax. No need to rewrite the core scripts but I need an entrypoint (`do.nu`). Although I want to rewrite it.
 * [x] DONE Rewrite `generate-readme.sh` in nu
-* [ ] Rewrite `lib.jq` in nu
+* [ ] IN PROGRESS Rewrite `lib.jq` in nu
+    * Clean it up 
 * [ ] Consider rewrite into JSX. We should be able to get super simple static site generation with React thanks to server
   components (somewhat of a misnomer). I just want to see and learn how to do it.
 
