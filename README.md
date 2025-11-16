@@ -1,7 +1,7 @@
 # Hello! 👋
 
 This is my [GitHub "profile README"](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-It is generated from Bash, Python, and `jq`. For details, see the [project notes](https://github.com/dgroomes/dgroomes/blob/main/README-2.md).
+It is generated from Nushell, Python, and `jq`. For details, see the [project notes](https://github.com/dgroomes/dgroomes/blob/main/README-2.md).
 
 
 ## My Repositories
@@ -134,6 +134,7 @@ Below is my personal fleet of [repositories](https://github.com/dgroomes?tab=rep
 <td><a href='https://github.com/dgroomes/web-playground'>web</a></td>
 <td><a href='https://github.com/dgroomes/webpack-playground'>webpack</a></td>
 <td><a href='https://github.com/dgroomes/wiremock-playground'>wiremock</a></td></tr>
+
 </table>
 
 * [advent-of-code-2024](https://github.com/dgroomes/advent-of-code-2024)

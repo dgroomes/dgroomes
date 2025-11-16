@@ -66,7 +66,7 @@ General clean-ups, TODOs and things I wish to implement for this project:
   as long as I'm using it in a small functional way. But as soon as you get into message passing it's not worth it.
 * [x] DONE Nushell. This is my shell now I don't want to bother with POSIX-like instructions like ` export GITHUB_PAT=your_token_here`
   which isn't valid nu syntax. No need to rewrite the core scripts but I need an entrypoint (`do.nu`). Although I want to rewrite it.
-* [ ] Rewrite `generate-readme.sh` in nu
+* [x] DONE Rewrite `generate-readme.sh` in nu
 * [ ] Rewrite `lib.jq` in nu
 * [ ] Consider rewrite into JSX. We should be able to get super simple static site generation with React thanks to server
   components (somewhat of a misnomer). I just want to see and learn how to do it.
